@@ -1245,81 +1245,73 @@
     {
       "startTime": 0,
       "endTime": 12,
-      "startBpm": 80,
-      "endBpm": 80,
+      "startBpm": 76,
+      "endBpm": 76,
       "type": "SUSTAIN",
       "density": 1.3333333333333333
     },
     {
       "startTime": 12,
       "endTime": 48,
-      "startBpm": 50,
-      "endBpm": 50,
+      "startBpm": 56,
+      "endBpm": 56,
       "type": "SUSTAIN",
       "density": 0.8333333333333334
     },
     {
       "startTime": 48,
-      "endTime": 60,
-      "startBpm": 190,
-      "endBpm": 190,
-      "type": "PEAK",
-      "density": 1.5833333333333333
-    },
-    {
-      "startTime": 60,
       "endTime": 84,
       "startBpm": 125,
       "endBpm": 125,
       "type": "SUSTAIN",
-      "density": 2.0833333333333335
+      "density": 1.5833333333333333
     },
     {
       "startTime": 84,
       "endTime": 96,
-      "startBpm": 35,
-      "endBpm": 35,
+      "startBpm": 40,
+      "endBpm": 40,
       "type": "SUSTAIN",
       "density": 0.5833333333333334
     },
     {
       "startTime": 96,
       "endTime": 120,
-      "startBpm": 55,
-      "endBpm": 55,
+      "startBpm": 67,
+      "endBpm": 67,
       "type": "SUSTAIN",
       "density": 0.9166666666666666
     },
     {
       "startTime": 120,
       "endTime": 144,
-      "startBpm": 30,
-      "endBpm": 30,
+      "startBpm": 37,
+      "endBpm": 37,
       "type": "SUSTAIN",
       "density": 0.5
     },
     {
       "startTime": 144,
       "endTime": 156,
-      "startBpm": 250,
-      "endBpm": 250,
+      "startBpm": 252,
+      "endBpm": 252,
       "type": "PEAK",
       "density": 2.0833333333333335
     },
     {
       "startTime": 156,
       "endTime": 192,
-      "startBpm": 250,
-      "endBpm": 250,
+      "startBpm": 244,
+      "endBpm": 244,
       "type": "PEAK",
       "density": 1.9166666666666667
     },
     {
       "startTime": 192,
       "endTime": 196.59583333333333,
-      "startBpm": 25,
-      "endBpm": 25,
-      "type": "SUSTAIN",
+      "startBpm": 480,
+      "endBpm": 480,
+      "type": "PEAK",
       "density": 0.4351767905711697
     }
   ]
