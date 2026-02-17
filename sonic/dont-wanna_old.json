@@ -4110,32 +4110,32 @@
     {
       "startTime": 0,
       "endTime": 72,
-      "startBpm": 149,
-      "endBpm": 149,
+      "startBpm": 145,
+      "endBpm": 145,
       "type": "SUSTAIN",
       "density": 2.3333333333333335
     },
     {
       "startTime": 72,
       "endTime": 84,
-      "startBpm": 122,
-      "endBpm": 122,
+      "startBpm": 120,
+      "endBpm": 120,
       "type": "SUSTAIN",
       "density": 2
     },
     {
       "startTime": 84,
       "endTime": 108,
-      "startBpm": 138,
-      "endBpm": 138,
+      "startBpm": 140,
+      "endBpm": 140,
       "type": "SUSTAIN",
       "density": 2.3333333333333335
     },
     {
       "startTime": 108,
       "endTime": 120,
-      "startBpm": 86,
-      "endBpm": 86,
+      "startBpm": 35,
+      "endBpm": 35,
       "type": "SUSTAIN",
       "density": 0.5833333333333334
     },
@@ -4150,106 +4150,114 @@
     {
       "startTime": 132,
       "endTime": 144,
-      "startBpm": 28,
-      "endBpm": 28,
+      "startBpm": 15,
+      "endBpm": 15,
       "type": "SUSTAIN",
       "density": 0.25
     },
     {
       "startTime": 144,
       "endTime": 192,
-      "startBpm": 62,
-      "endBpm": 62,
+      "startBpm": 45,
+      "endBpm": 45,
       "type": "SUSTAIN",
       "density": 0.75
     },
     {
       "startTime": 192,
       "endTime": 204,
-      "startBpm": 126,
-      "endBpm": 126,
+      "startBpm": 115,
+      "endBpm": 115,
       "type": "SUSTAIN",
       "density": 1.9166666666666667
     },
     {
       "startTime": 204,
-      "endTime": 216,
-      "startBpm": 170,
-      "endBpm": 170,
+      "endTime": 228,
+      "startBpm": 180,
+      "endBpm": 180,
       "type": "PEAK",
       "density": 1.4166666666666667
     },
     {
-      "startTime": 216,
+      "startTime": 228,
       "endTime": 300,
-      "startBpm": 141,
-      "endBpm": 141,
+      "startBpm": 140,
+      "endBpm": 140,
       "type": "SUSTAIN",
-      "density": 1.5
+      "density": 2.25
     },
     {
       "startTime": 300,
       "endTime": 312,
-      "startBpm": 196,
-      "endBpm": 196,
-      "type": "PEAK",
+      "startBpm": 100,
+      "endBpm": 100,
+      "type": "SUSTAIN",
       "density": 1.6666666666666667
     },
     {
       "startTime": 312,
       "endTime": 324,
-      "startBpm": 162,
-      "endBpm": 162,
+      "startBpm": 160,
+      "endBpm": 160,
       "type": "PEAK",
       "density": 1.3333333333333333
     },
     {
       "startTime": 324,
       "endTime": 336,
-      "startBpm": 316,
-      "endBpm": 316,
+      "startBpm": 320,
+      "endBpm": 320,
       "type": "PEAK",
       "density": 2.6666666666666665
     },
     {
       "startTime": 336,
       "endTime": 384,
-      "startBpm": 276,
-      "endBpm": 276,
+      "startBpm": 280,
+      "endBpm": 280,
       "type": "PEAK",
       "density": 2.3333333333333335
     },
     {
       "startTime": 384,
       "endTime": 396,
-      "startBpm": 246,
-      "endBpm": 246,
+      "startBpm": 250,
+      "endBpm": 250,
       "type": "PEAK",
       "density": 2.0833333333333335
     },
     {
       "startTime": 396,
       "endTime": 408,
-      "startBpm": 276,
-      "endBpm": 276,
+      "startBpm": 280,
+      "endBpm": 280,
       "type": "PEAK",
       "density": 2.3333333333333335
     },
     {
       "startTime": 408,
       "endTime": 420,
-      "startBpm": 244,
-      "endBpm": 244,
+      "startBpm": 240,
+      "endBpm": 240,
       "type": "PEAK",
       "density": 2
     },
     {
       "startTime": 420,
-      "endTime": 444,
-      "startBpm": 276,
-      "endBpm": 276,
+      "endTime": 432,
+      "startBpm": 280,
+      "endBpm": 280,
       "type": "PEAK",
       "density": 2.3333333333333335
+    },
+    {
+      "startTime": 432,
+      "endTime": 444,
+      "startBpm": 260,
+      "endBpm": 260,
+      "type": "PEAK",
+      "density": 2.1666666666666665
     },
     {
       "startTime": 444,
