@@ -1,3917 +1,4156 @@
 {
   "script": [
     {
-      "time": 1.1500000000000001,
-      "energy": 0.14473947160387474,
+      "time": 1.172793646210812,
+      "energy": 0.12483327313640409,
       "isImpact": true
     },
     {
-      "time": 1.375,
-      "energy": 0.22731915374830297,
-      "isImpact": true
+      "time": 2.095590884307591,
+      "energy": 0.12483327313640409,
+      "isImpact": false
     },
     {
-      "time": 1.5750000000000002,
-      "energy": 0.19522278725717138,
+      "time": 3.019553363908876,
+      "energy": 0.15254195070041704,
       "isImpact": true
     },
     {
-      "time": 2.4250000000000003,
-      "energy": 0.20791069818835758,
-      "isImpact": true
+      "time": 3.9374933953515496,
+      "energy": 0.15254195070041704,
+      "isImpact": false
     },
     {
-      "time": 2.95,
-      "energy": 0.2227438788746863,
+      "time": 4.864727621256414,
+      "energy": 0.10219760898194666,
       "isImpact": true
     },
     {
-      "time": 4.25,
-      "energy": 0.2555867226601628,
-      "isImpact": true
+      "time": 5.786266693146971,
+      "energy": 0.10219760898194666,
+      "isImpact": false
     },
     {
-      "time": 4.4750000000000005,
-      "energy": 0.2943669247614539,
+      "time": 6.710758170433028,
+      "energy": 0.00677840062247496,
       "isImpact": true
     },
     {
-      "time": 4.825,
-      "energy": 0.3497444519104345,
-      "isImpact": true
+      "time": 7.632150193702946,
+      "energy": 0.00677840062247496,
+      "isImpact": false
     },
     {
-      "time": 5.025,
-      "energy": 0.36359995551624796,
+      "time": 8.550450943551091,
+      "energy": 0.008504674571366251,
       "isImpact": true
     },
     {
-      "time": 5.425000000000001,
-      "energy": 0.3119983446451787,
-      "isImpact": true
+      "time": 9.477732041929562,
+      "energy": 0.008504674571366251,
+      "isImpact": false
     },
     {
-      "time": 5.65,
-      "energy": 0.18273240406465593,
+      "time": 10.402091067067433,
+      "energy": 0.007478187589272418,
       "isImpact": true
     },
     {
-      "time": 5.9,
-      "energy": 0.12076421546471311,
-      "isImpact": true
+      "time": 11.323514054472964,
+      "energy": 0.007478187589272418,
+      "isImpact": false
     },
     {
-      "time": 35,
-      "energy": 0.61401229792726,
+      "time": 12.23896946513598,
+      "energy": 0.008699092873686488,
       "isImpact": true
     },
     {
-      "time": 35.475,
-      "energy": 0.5915267811029244,
-      "isImpact": true
+      "time": 13.170913001855054,
+      "energy": 0.008699092873686488,
+      "isImpact": false
     },
     {
-      "time": 35.925000000000004,
-      "energy": 0.5979079773962462,
+      "time": 14.086537443940372,
+      "energy": 0.006819360617582643,
       "isImpact": true
     },
     {
-      "time": 36.375,
-      "energy": 0.6051749504539702,
-      "isImpact": true
+      "time": 15.009165642315974,
+      "energy": 0.006819360617582643,
+      "isImpact": false
     },
     {
-      "time": 36.85,
-      "energy": 0.6286205408722642,
+      "time": 15.937157135118511,
+      "energy": 0.008673296141593288,
       "isImpact": true
     },
     {
-      "time": 37.300000000000004,
-      "energy": 0.6179618310332416,
-      "isImpact": true
+      "time": 16.85849302915666,
+      "energy": 0.008673296141593288,
+      "isImpact": false
     },
     {
-      "time": 37.775,
-      "energy": 0.6120936616218933,
+      "time": 17.779568506276075,
+      "energy": 0.007588071792595146,
       "isImpact": true
     },
     {
-      "time": 38.225,
-      "energy": 0.6116686083693091,
-      "isImpact": true
+      "time": 18.70069950960659,
+      "energy": 0.007588071792595146,
+      "isImpact": false
     },
     {
-      "time": 38.7,
-      "energy": 0.6012439268713832,
+      "time": 19.62689191302124,
+      "energy": 0.008560494033647875,
       "isImpact": true
     },
     {
-      "time": 39.150000000000006,
-      "energy": 0.6001202027309814,
-      "isImpact": true
+      "time": 20.552398977921207,
+      "energy": 0.008560494033647875,
+      "isImpact": false
     },
     {
-      "time": 39.625,
-      "energy": 0.6008368377154588,
+      "time": 21.481275972630854,
+      "energy": 0.006852037232527452,
       "isImpact": true
     },
     {
-      "time": 40.075,
-      "energy": 0.6239068241997265,
-      "isImpact": true
+      "time": 22.401416508501736,
+      "energy": 0.006852037232527452,
+      "isImpact": false
     },
     {
-      "time": 40.525000000000006,
-      "energy": 0.5959167645860417,
+      "time": 23.325184574864895,
+      "energy": 0.008549108322449985,
       "isImpact": true
     },
     {
-      "time": 41,
-      "energy": 0.617367999814682,
-      "isImpact": true
+      "time": 24.241806479731597,
+      "energy": 0.008549108322449985,
+      "isImpact": false
     },
     {
-      "time": 41.475,
-      "energy": 0.592514550403197,
+      "time": 25.163630197028443,
+      "energy": 0.007156199035882688,
       "isImpact": true
     },
     {
-      "time": 41.925000000000004,
-      "energy": 0.601903607866525,
-      "isImpact": true
+      "time": 26.090224578452002,
+      "energy": 0.007156199035882688,
+      "isImpact": false
     },
     {
-      "time": 42.375,
-      "energy": 0.5997609873146553,
+      "time": 27.018967612545804,
+      "energy": 0.008989105343519172,
       "isImpact": true
     },
     {
-      "time": 42.85,
-      "energy": 0.6309064027016528,
-      "isImpact": true
+      "time": 27.94151056616097,
+      "energy": 0.008989105343519172,
+      "isImpact": false
     },
     {
-      "time": 43.300000000000004,
-      "energy": 0.6149362767135068,
+      "time": 28.85820763116561,
+      "energy": 0.006920935610391791,
       "isImpact": true
     },
     {
-      "time": 43.775000000000006,
-      "energy": 0.6134599767384998,
-      "isImpact": true
+      "time": 29.786590148823795,
+      "energy": 0.006920935610391791,
+      "isImpact": false
     },
     {
-      "time": 44.225,
-      "energy": 0.6066707344519434,
+      "time": 30.701073859394068,
+      "energy": 0.008475956255031345,
       "isImpact": true
     },
     {
-      "time": 44.7,
-      "energy": 0.6011826262784051,
-      "isImpact": true
+      "time": 31.628858920205406,
+      "energy": 0.008475956255031345,
+      "isImpact": false
     },
     {
-      "time": 45.150000000000006,
-      "energy": 0.5975957969573775,
+      "time": 32.5575372853749,
+      "energy": 0.007360279786682094,
       "isImpact": true
     },
     {
-      "time": 45.625,
-      "energy": 0.6018718053532238,
-      "isImpact": true
+      "time": 33.47430319760112,
+      "energy": 0.007360279786682094,
+      "isImpact": false
     },
     {
-      "time": 46.075,
-      "energy": 0.6224788384680563,
+      "time": 34.401522120487925,
+      "energy": 0.21834960474311413,
       "isImpact": true
     },
     {
-      "time": 46.525000000000006,
-      "energy": 0.5919379483563496,
-      "isImpact": true
+      "time": 35.32593247851889,
+      "energy": 0.21834960474311413,
+      "isImpact": false
     },
     {
-      "time": 47,
-      "energy": 0.6200805694585537,
+      "time": 36.24627209219167,
+      "energy": 0.29910162199284795,
       "isImpact": true
     },
     {
-      "time": 47.475,
-      "energy": 0.5962903416514785,
-      "isImpact": true
+      "time": 36.70802662938961,
+      "energy": 0.29910162199284795,
+      "isImpact": false
     },
     {
-      "time": 47.925000000000004,
-      "energy": 0.5977070797589209,
-      "isImpact": true
+      "time": 37.171631756322434,
+      "energy": 0.29910162199284795,
+      "isImpact": false
     },
     {
-      "time": 48.375,
-      "energy": 0.604478270460961,
-      "isImpact": true
+      "time": 37.63153531397998,
+      "energy": 0.29910162199284795,
+      "isImpact": false
     },
     {
-      "time": 48.85,
-      "energy": 0.6257709877400063,
+      "time": 38.08519921415443,
+      "energy": 0.297897034480707,
       "isImpact": true
     },
     {
-      "time": 49.300000000000004,
-      "energy": 0.6169429641536077,
-      "isImpact": true
+      "time": 38.55664142889854,
+      "energy": 0.297897034480707,
+      "isImpact": false
     },
     {
-      "time": 51.125,
-      "energy": 0.0854262870320877,
-      "isImpact": true
+      "time": 39.01301385024599,
+      "energy": 0.297897034480707,
+      "isImpact": false
     },
     {
-      "time": 52.050000000000004,
-      "energy": 0.09151894531100736,
-      "isImpact": true
+      "time": 39.48078685570778,
+      "energy": 0.297897034480707,
+      "isImpact": false
     },
     {
-      "time": 52.975,
-      "energy": 0.08268206302195942,
+      "time": 39.934579381690426,
+      "energy": 0.2947814370388598,
       "isImpact": true
     },
     {
-      "time": 53.900000000000006,
-      "energy": 0.08719467698522779,
-      "isImpact": true
+      "time": 40.40354962147286,
+      "energy": 0.2947814370388598,
+      "isImpact": false
     },
     {
-      "time": 55.275000000000006,
-      "energy": 0.08764334210301428,
-      "isImpact": true
+      "time": 40.860845323492306,
+      "energy": 0.2947814370388598,
+      "isImpact": false
     },
     {
-      "time": 56.2,
-      "energy": 0.08916493672996818,
-      "isImpact": true
+      "time": 41.32214475499632,
+      "energy": 0.2947814370388598,
+      "isImpact": false
     },
     {
-      "time": 57.125,
-      "energy": 0.0878595328435103,
+      "time": 41.786875616023096,
+      "energy": 0.296872496999015,
       "isImpact": true
     },
     {
-      "time": 57.35,
-      "energy": 0.09205211322520179,
-      "isImpact": true
+      "time": 42.246703035106194,
+      "energy": 0.296872496999015,
+      "isImpact": false
     },
     {
-      "time": 57.825,
-      "energy": 0.10588802093313683,
-      "isImpact": true
+      "time": 42.71093542846005,
+      "energy": 0.296872496999015,
+      "isImpact": false
     },
     {
-      "time": 58.050000000000004,
-      "energy": 0.08771155802348361,
-      "isImpact": true
+      "time": 43.16405912323136,
+      "energy": 0.296872496999015,
+      "isImpact": false
     },
     {
-      "time": 58.275000000000006,
-      "energy": 0.08330926890876372,
+      "time": 43.62655315215011,
+      "energy": 0.2984260730572164,
       "isImpact": true
     },
     {
-      "time": 58.75,
-      "energy": 0.09738159207716426,
-      "isImpact": true
+      "time": 44.085582988671376,
+      "energy": 0.2984260730572164,
+      "isImpact": false
     },
     {
-      "time": 58.975,
-      "energy": 0.08367330179292906,
-      "isImpact": true
+      "time": 44.5576201126254,
+      "energy": 0.2984260730572164,
+      "isImpact": false
     },
     {
-      "time": 59.2,
-      "energy": 0.09579510792751886,
-      "isImpact": true
+      "time": 45.00931335257193,
+      "energy": 0.2984260730572164,
+      "isImpact": false
     },
     {
-      "time": 59.900000000000006,
-      "energy": 0.08021227997920205,
+      "time": 45.47885501246179,
+      "energy": 0.29521633592773033,
       "isImpact": true
     },
     {
-      "time": 60.125,
-      "energy": 0.08490388584931297,
-      "isImpact": true
+      "time": 45.935034999629096,
+      "energy": 0.29521633592773033,
+      "isImpact": false
     },
     {
-      "time": 60.575,
-      "energy": 0.08128642758962668,
-      "isImpact": true
+      "time": 46.400999211327694,
+      "energy": 0.29521633592773033,
+      "isImpact": false
     },
     {
-      "time": 61.050000000000004,
-      "energy": 0.09292711410506675,
-      "isImpact": true
+      "time": 46.86058064553528,
+      "energy": 0.29521633592773033,
+      "isImpact": false
     },
     {
-      "time": 61.5,
-      "energy": 0.09126759947528439,
+      "time": 47.32026477766381,
+      "energy": 0.2969322681033191,
       "isImpact": true
     },
     {
-      "time": 61.975,
-      "energy": 0.08010746865425973,
-      "isImpact": true
+      "time": 47.786419306425614,
+      "energy": 0.2969322681033191,
+      "isImpact": false
     },
     {
-      "time": 62.2,
-      "energy": 0.08131845200340782,
-      "isImpact": true
+      "time": 48.24899347994146,
+      "energy": 0.2969322681033191,
+      "isImpact": false
     },
     {
-      "time": 62.425000000000004,
-      "energy": 0.09717901388137481,
-      "isImpact": true
+      "time": 48.70195904999321,
+      "energy": 0.2969322681033191,
+      "isImpact": false
     },
     {
-      "time": 62.900000000000006,
-      "energy": 0.09015383260567683,
+      "time": 49.170600802863675,
+      "energy": 0.09450023832056302,
       "isImpact": true
     },
     {
-      "time": 63.125,
-      "energy": 0.08820493399343093,
+      "time": 51.01940465956597,
+      "energy": 0.023150555525824776,
       "isImpact": true
     },
     {
-      "time": 63.35,
-      "energy": 0.0887493352828708,
+      "time": 52.860715866170395,
+      "energy": 0.023986611429693237,
       "isImpact": true
     },
     {
-      "time": 63.7,
-      "energy": 0.08872589328165419,
+      "time": 54.70377963384102,
+      "energy": 0.023017120518278932,
       "isImpact": true
     },
     {
-      "time": 64.525,
-      "energy": 0.6327834372297475,
+      "time": 56.55473064980441,
+      "energy": 0.028988919510472964,
       "isImpact": true
     },
     {
-      "time": 64.75,
-      "energy": 0.5160219850555435,
+      "time": 58.404125865314676,
+      "energy": 0.03074900280008604,
       "isImpact": true
     },
     {
-      "time": 65,
-      "energy": 0.6277827384295754,
+      "time": 60.24210801116709,
+      "energy": 0.030630125516759404,
       "isImpact": true
     },
     {
-      "time": 65.2,
-      "energy": 0.5663551096577057,
+      "time": 62.092286901242105,
+      "energy": 0.03625827565380323,
       "isImpact": true
     },
     {
-      "time": 65.45,
-      "energy": 0.6046354147561619,
+      "time": 63.938943590219786,
+      "energy": 0.2537739852059705,
       "isImpact": true
     },
     {
-      "time": 65.675,
-      "energy": 0.5399017850950741,
-      "isImpact": true
+      "time": 64.40233047498364,
+      "energy": 0.2537739852059705,
+      "isImpact": false
     },
     {
-      "time": 65.925,
-      "energy": 0.6069956077859807,
-      "isImpact": true
+      "time": 64.86489596379371,
+      "energy": 0.2537739852059705,
+      "isImpact": false
     },
     {
-      "time": 66.125,
-      "energy": 0.5474820810283989,
-      "isImpact": true
+      "time": 65.32186855126295,
+      "energy": 0.2537739852059705,
+      "isImpact": false
     },
     {
-      "time": 66.375,
-      "energy": 0.6077374376650085,
+      "time": 65.77808160346702,
+      "energy": 0.331809063480776,
       "isImpact": true
     },
     {
-      "time": 66.60000000000001,
-      "energy": 0.5171626488798629,
-      "isImpact": true
+      "time": 66.24289645295453,
+      "energy": 0.331809063480776,
+      "isImpact": false
     },
     {
-      "time": 66.85000000000001,
-      "energy": 0.6285663535067646,
-      "isImpact": true
+      "time": 66.70352939248694,
+      "energy": 0.331809063480776,
+      "isImpact": false
     },
     {
-      "time": 67.3,
-      "energy": 0.6065914188638953,
-      "isImpact": true
+      "time": 67.17115156644344,
+      "energy": 0.331809063480776,
+      "isImpact": false
     },
     {
-      "time": 67.775,
-      "energy": 0.6117855813363613,
+      "time": 67.63458040390884,
+      "energy": 0.34510457468366995,
       "isImpact": true
     },
     {
-      "time": 68.22500000000001,
-      "energy": 0.6146121382121258,
-      "isImpact": true
+      "time": 68.09065361952821,
+      "energy": 0.34510457468366995,
+      "isImpact": false
     },
     {
-      "time": 68.7,
-      "energy": 0.6098474944871626,
-      "isImpact": true
+      "time": 68.55377530130531,
+      "energy": 0.34510457468366995,
+      "isImpact": false
     },
     {
-      "time": 69.15,
-      "energy": 0.6049835985497144,
-      "isImpact": true
+      "time": 69.01663592894894,
+      "energy": 0.34510457468366995,
+      "isImpact": false
     },
     {
-      "time": 69.625,
-      "energy": 0.6115205485090397,
+      "time": 69.46997432951646,
+      "energy": 0.3563934717643647,
       "isImpact": true
     },
     {
-      "time": 70.075,
-      "energy": 0.6298231108389751,
-      "isImpact": true
+      "time": 69.94093474103336,
+      "energy": 0.3563934717643647,
+      "isImpact": false
     },
     {
-      "time": 70.525,
-      "energy": 0.5978062334043657,
-      "isImpact": true
+      "time": 70.39251074765417,
+      "energy": 0.3563934717643647,
+      "isImpact": false
     },
     {
-      "time": 71,
-      "energy": 0.6265302239588798,
-      "isImpact": true
+      "time": 70.86595381471075,
+      "energy": 0.3563934717643647,
+      "isImpact": false
     },
     {
-      "time": 71.45,
-      "energy": 0.6037026924160184,
+      "time": 71.32290262212959,
+      "energy": 0.3549587122820695,
       "isImpact": true
     },
     {
-      "time": 71.925,
-      "energy": 0.6165132764946141,
-      "isImpact": true
+      "time": 71.77927865825046,
+      "energy": 0.3549587122820695,
+      "isImpact": false
     },
     {
-      "time": 72.125,
-      "energy": 0.5477024475312738,
-      "isImpact": true
+      "time": 72.24244266764173,
+      "energy": 0.3549587122820695,
+      "isImpact": false
     },
     {
-      "time": 72.375,
-      "energy": 0.6186340446448633,
-      "isImpact": true
+      "time": 72.71064391518067,
+      "energy": 0.3549587122820695,
+      "isImpact": false
     },
     {
-      "time": 72.575,
-      "energy": 0.5363483104719206,
+      "time": 73.1653728345373,
+      "energy": 0.33238462591930323,
       "isImpact": true
     },
     {
-      "time": 72.85000000000001,
-      "energy": 0.6338231698531346,
-      "isImpact": true
+      "time": 73.63401217736248,
+      "energy": 0.33238462591930323,
+      "isImpact": false
     },
     {
-      "time": 73.3,
-      "energy": 0.615291828626291,
-      "isImpact": true
+      "time": 74.0924103748016,
+      "energy": 0.33238462591930323,
+      "isImpact": false
     },
     {
-      "time": 73.775,
-      "energy": 0.6013322406963882,
-      "isImpact": true
+      "time": 74.554321683563,
+      "energy": 0.33238462591930323,
+      "isImpact": false
     },
     {
-      "time": 74.22500000000001,
-      "energy": 0.6041945992557771,
+      "time": 75.01849329068418,
+      "energy": 0.3388872477042498,
       "isImpact": true
     },
     {
-      "time": 74.7,
-      "energy": 0.5889798841339845,
-      "isImpact": true
+      "time": 75.47367847834971,
+      "energy": 0.3388872477042498,
+      "isImpact": false
     },
     {
-      "time": 75.15,
-      "energy": 0.5982847326182311,
-      "isImpact": true
+      "time": 75.93239991422189,
+      "energy": 0.3388872477042498,
+      "isImpact": false
     },
     {
-      "time": 75.625,
-      "energy": 0.605413288600442,
-      "isImpact": true
+      "time": 76.40127415258867,
+      "energy": 0.3388872477042498,
+      "isImpact": false
     },
     {
-      "time": 76.075,
-      "energy": 0.6266250705702792,
+      "time": 76.85710144276706,
+      "energy": 0.35913484517255023,
       "isImpact": true
     },
     {
-      "time": 76.55,
-      "energy": 0.6057055181012124,
-      "isImpact": true
+      "time": 77.31942241563111,
+      "energy": 0.35913484517255023,
+      "isImpact": false
     },
     {
-      "time": 77,
-      "energy": 0.6271338079378647,
-      "isImpact": true
+      "time": 77.7834047196721,
+      "energy": 0.35913484517255023,
+      "isImpact": false
     },
     {
-      "time": 77.47500000000001,
-      "energy": 0.6065593946110571,
-      "isImpact": true
+      "time": 78.24911135815138,
+      "energy": 0.35913484517255023,
+      "isImpact": false
     },
     {
-      "time": 77.92500000000001,
-      "energy": 0.6076738217730001,
+      "time": 78.7049988883067,
+      "energy": 0.3516391591300321,
       "isImpact": true
     },
     {
-      "time": 78.375,
-      "energy": 0.6058849086128046,
-      "isImpact": true
+      "time": 79.17139937040223,
+      "energy": 0.3516391591300321,
+      "isImpact": false
     },
     {
-      "time": 78.85000000000001,
-      "energy": 0.6393496430345396,
-      "isImpact": true
+      "time": 79.62958809293947,
+      "energy": 0.3516391591300321,
+      "isImpact": false
     },
     {
-      "time": 79.30000000000001,
-      "energy": 0.6278791115175392,
-      "isImpact": true
+      "time": 80.08660779368788,
+      "energy": 0.3516391591300321,
+      "isImpact": false
     },
     {
-      "time": 79.775,
-      "energy": 0.6144567334111403,
+      "time": 80.54656561686582,
+      "energy": 0.33627131690001605,
       "isImpact": true
     },
     {
-      "time": 80.22500000000001,
-      "energy": 0.611853531123535,
-      "isImpact": true
+      "time": 81.01633333722042,
+      "energy": 0.33627131690001605,
+      "isImpact": false
     },
     {
-      "time": 80.42500000000001,
-      "energy": 0.5228424333005348,
-      "isImpact": true
+      "time": 81.4702837410111,
+      "energy": 0.33627131690001605,
+      "isImpact": false
     },
     {
-      "time": 80.7,
-      "energy": 0.5947064867780788,
-      "isImpact": true
+      "time": 81.93917625378697,
+      "energy": 0.33627131690001605,
+      "isImpact": false
     },
     {
-      "time": 81.15,
-      "energy": 0.6060660678053509,
+      "time": 82.40224267665256,
+      "energy": 0.334533173177111,
       "isImpact": true
     },
     {
-      "time": 81.625,
-      "energy": 0.5937859769047403,
-      "isImpact": true
+      "time": 82.85523220115068,
+      "energy": 0.334533173177111,
+      "isImpact": false
     },
     {
-      "time": 82.075,
-      "energy": 0.62085048104016,
-      "isImpact": true
+      "time": 83.32387786195216,
+      "energy": 0.334533173177111,
+      "isImpact": false
     },
     {
-      "time": 82.525,
-      "energy": 0.5994514764992631,
-      "isImpact": true
+      "time": 83.78280625835689,
+      "energy": 0.334533173177111,
+      "isImpact": false
     },
     {
-      "time": 83,
-      "energy": 0.6145114796730464,
+      "time": 84.24324741563044,
+      "energy": 0.3518891787682418,
       "isImpact": true
     },
     {
-      "time": 83.47500000000001,
-      "energy": 0.6075110987564643,
-      "isImpact": true
+      "time": 84.70993101706463,
+      "energy": 0.3518891787682418,
+      "isImpact": false
     },
     {
-      "time": 83.92500000000001,
-      "energy": 0.5919478216131657,
-      "isImpact": true
+      "time": 85.17178085265739,
+      "energy": 0.3518891787682418,
+      "isImpact": false
     },
     {
-      "time": 84.375,
-      "energy": 0.6005462600108743,
+      "time": 86.09017337577545,
+      "energy": 0.3554213492285814,
       "isImpact": true
     },
     {
-      "time": 84.85000000000001,
-      "energy": 0.6379535063585624,
-      "isImpact": true
+      "time": 86.54634453564395,
+      "energy": 0.3554213492285814,
+      "isImpact": false
     },
     {
-      "time": 85.30000000000001,
-      "energy": 0.627140548780485,
-      "isImpact": true
+      "time": 87.01106210140736,
+      "energy": 0.3554213492285814,
+      "isImpact": false
     },
     {
-      "time": 85.775,
-      "energy": 0.623903875855711,
-      "isImpact": true
+      "time": 87.47282901523829,
+      "energy": 0.3554213492285814,
+      "isImpact": false
     },
     {
-      "time": 86.22500000000001,
-      "energy": 0.6186708803157145,
+      "time": 87.93618387810949,
+      "energy": 0.34345555336715516,
       "isImpact": true
     },
     {
-      "time": 86.7,
-      "energy": 0.6193663967349888,
-      "isImpact": true
+      "time": 88.3946983533871,
+      "energy": 0.34345555336715516,
+      "isImpact": false
     },
     {
-      "time": 87.15,
-      "energy": 0.6064062623644627,
-      "isImpact": true
+      "time": 88.85649912845561,
+      "energy": 0.34345555336715516,
+      "isImpact": false
     },
     {
-      "time": 87.625,
-      "energy": 0.601507113765414,
-      "isImpact": true
+      "time": 89.32557373637465,
+      "energy": 0.34345555336715516,
+      "isImpact": false
     },
     {
-      "time": 88.075,
-      "energy": 0.629046534962797,
+      "time": 89.78684067914615,
+      "energy": 0.33529195957825086,
       "isImpact": true
     },
     {
-      "time": 88.275,
-      "energy": 0.5426839654649105,
-      "isImpact": true
+      "time": 90.24783185795529,
+      "energy": 0.33529195957825086,
+      "isImpact": false
     },
     {
-      "time": 88.525,
-      "energy": 0.6124915455796793,
-      "isImpact": true
+      "time": 90.70737194619537,
+      "energy": 0.33529195957825086,
+      "isImpact": false
     },
     {
-      "time": 89,
-      "energy": 0.6216279432183142,
-      "isImpact": true
+      "time": 91.16172868964698,
+      "energy": 0.33529195957825086,
+      "isImpact": false
     },
     {
-      "time": 89.2,
-      "energy": 0.5666357251683083,
+      "time": 91.62982277045472,
+      "energy": 0.3472120344916172,
       "isImpact": true
     },
     {
-      "time": 89.45,
-      "energy": 0.6027178237970151,
-      "isImpact": true
+      "time": 92.09313634836192,
+      "energy": 0.3472120344916172,
+      "isImpact": false
     },
     {
-      "time": 89.67500000000001,
-      "energy": 0.5300073073571651,
-      "isImpact": true
+      "time": 92.55377181580411,
+      "energy": 0.3472120344916172,
+      "isImpact": false
     },
     {
-      "time": 89.92500000000001,
-      "energy": 0.5976286969866998,
-      "isImpact": true
+      "time": 93.01737427133183,
+      "energy": 0.3472120344916172,
+      "isImpact": false
     },
     {
-      "time": 90.375,
-      "energy": 0.596598962115708,
+      "time": 93.47811972539586,
+      "energy": 0.29959775924230453,
       "isImpact": true
     },
     {
-      "time": 90.85000000000001,
-      "energy": 0.6256708194165337,
-      "isImpact": true
+      "time": 93.94194825061017,
+      "energy": 0.29959775924230453,
+      "isImpact": false
     },
     {
-      "time": 91.30000000000001,
-      "energy": 0.6085217748168045,
-      "isImpact": true
+      "time": 94.4004673234686,
+      "energy": 0.29959775924230453,
+      "isImpact": false
     },
     {
-      "time": 91.775,
-      "energy": 0.614392223902836,
-      "isImpact": true
+      "time": 94.86391056049443,
+      "energy": 0.29959775924230453,
+      "isImpact": false
     },
     {
-      "time": 92.22500000000001,
-      "energy": 0.6124139531196622,
+      "time": 95.31737895899643,
+      "energy": 0.34302004851744056,
       "isImpact": true
     },
     {
-      "time": 92.7,
-      "energy": 0.6151788974114056,
-      "isImpact": true
+      "time": 95.78770754666452,
+      "energy": 0.34302004851744056,
+      "isImpact": false
     },
     {
-      "time": 93.15,
-      "energy": 0.6105547736119566,
-      "isImpact": true
+      "time": 96.2426272764077,
+      "energy": 0.34302004851744056,
+      "isImpact": false
     },
     {
-      "time": 94.075,
-      "energy": 0.6389349454246122,
-      "isImpact": true
+      "time": 96.70718502920236,
+      "energy": 0.34302004851744056,
+      "isImpact": false
     },
     {
-      "time": 94.525,
-      "energy": 0.6049879032035709,
+      "time": 97.1647281420027,
+      "energy": 0.3355864083197046,
       "isImpact": true
     },
     {
-      "time": 95,
-      "energy": 0.6375054465327852,
-      "isImpact": true
+      "time": 97.63203843240802,
+      "energy": 0.3355864083197046,
+      "isImpact": false
     },
     {
-      "time": 95.45,
-      "energy": 0.6034588477004341,
-      "isImpact": true
+      "time": 98.08716729547233,
+      "energy": 0.3355864083197046,
+      "isImpact": false
     },
     {
-      "time": 95.92500000000001,
-      "energy": 0.6145748054922412,
-      "isImpact": true
+      "time": 98.54993234117073,
+      "energy": 0.3355864083197046,
+      "isImpact": false
     },
     {
-      "time": 96.375,
-      "energy": 0.6143945911284839,
+      "time": 99.0089470397452,
+      "energy": 0.3465792890494486,
       "isImpact": true
     },
     {
-      "time": 96.85000000000001,
-      "energy": 0.6389345312137578,
-      "isImpact": true
+      "time": 99.47475769288438,
+      "energy": 0.3465792890494486,
+      "isImpact": false
     },
     {
-      "time": 97.05000000000001,
-      "energy": 0.5258889502734729,
-      "isImpact": true
+      "time": 99.94075355950139,
+      "energy": 0.3465792890494486,
+      "isImpact": false
     },
     {
-      "time": 97.30000000000001,
-      "energy": 0.6165725656980046,
-      "isImpact": true
+      "time": 100.40012071896284,
+      "energy": 0.3465792890494486,
+      "isImpact": false
     },
     {
-      "time": 97.775,
-      "energy": 0.614235541976036,
+      "time": 100.86542485303755,
+      "energy": 0.3462148654388698,
       "isImpact": true
     },
     {
-      "time": 98.22500000000001,
-      "energy": 0.6081667087037186,
-      "isImpact": true
+      "time": 101.324128025853,
+      "energy": 0.3462148654388698,
+      "isImpact": false
     },
     {
-      "time": 98.7,
-      "energy": 0.6066216288484313,
-      "isImpact": true
+      "time": 101.78760604312376,
+      "energy": 0.3462148654388698,
+      "isImpact": false
     },
     {
-      "time": 99.15,
-      "energy": 0.6064222222243095,
-      "isImpact": true
+      "time": 102.24570557393353,
+      "energy": 0.3462148654388698,
+      "isImpact": false
     },
     {
-      "time": 99.625,
-      "energy": 0.6144350790899703,
+      "time": 102.70418821699015,
+      "energy": 0.3558505798417667,
       "isImpact": true
     },
     {
-      "time": 100.075,
-      "energy": 0.6362550256716756,
-      "isImpact": true
+      "time": 103.17291181284996,
+      "energy": 0.3558505798417667,
+      "isImpact": false
     },
     {
-      "time": 100.55000000000001,
-      "energy": 0.6038243179579471,
-      "isImpact": true
+      "time": 103.6244622958494,
+      "energy": 0.3558505798417667,
+      "isImpact": false
     },
     {
-      "time": 101,
-      "energy": 0.63274564174077,
-      "isImpact": true
+      "time": 104.0966092442591,
+      "energy": 0.3558505798417667,
+      "isImpact": false
     },
     {
-      "time": 101.47500000000001,
-      "energy": 0.6033048936167104,
+      "time": 104.55480788565212,
+      "energy": 0.35334320302237343,
       "isImpact": true
     },
     {
-      "time": 101.92500000000001,
-      "energy": 0.5918720654566899,
-      "isImpact": true
+      "time": 105.01247090675058,
+      "energy": 0.35334320302237343,
+      "isImpact": false
     },
     {
-      "time": 102.375,
-      "energy": 0.6117850580717842,
-      "isImpact": true
+      "time": 105.4793689247195,
+      "energy": 0.35334320302237343,
+      "isImpact": false
     },
     {
-      "time": 102.85000000000001,
-      "energy": 0.6347104835100917,
-      "isImpact": true
+      "time": 105.93501302061362,
+      "energy": 0.35334320302237343,
+      "isImpact": false
     },
     {
-      "time": 103.30000000000001,
-      "energy": 0.6387278003512583,
+      "time": 106.4032261649938,
+      "energy": 0.3389276627785223,
       "isImpact": true
     },
     {
-      "time": 103.775,
-      "energy": 0.6259580989396867,
-      "isImpact": true
+      "time": 106.8635047262703,
+      "energy": 0.3389276627785223,
+      "isImpact": false
     },
     {
-      "time": 104.22500000000001,
-      "energy": 0.6263434637730029,
-      "isImpact": true
+      "time": 107.32393617582926,
+      "energy": 0.3389276627785223,
+      "isImpact": false
     },
     {
-      "time": 104.7,
-      "energy": 0.6125867387350109,
-      "isImpact": true
+      "time": 107.78857734138089,
+      "energy": 0.3389276627785223,
+      "isImpact": false
     },
     {
-      "time": 105.15,
-      "energy": 0.6185795581892468,
+      "time": 108.24742603143119,
+      "energy": 0.3494083945512699,
       "isImpact": true
     },
     {
-      "time": 105.625,
-      "energy": 0.5968915572466214,
-      "isImpact": true
+      "time": 108.70740764755107,
+      "energy": 0.3494083945512699,
+      "isImpact": false
     },
     {
-      "time": 106.075,
-      "energy": 0.6401356085665632,
-      "isImpact": true
+      "time": 109.16604345795504,
+      "energy": 0.3494083945512699,
+      "isImpact": false
     },
     {
-      "time": 106.525,
-      "energy": 0.6142176986324952,
-      "isImpact": true
+      "time": 109.63082522858514,
+      "energy": 0.3494083945512699,
+      "isImpact": false
     },
     {
-      "time": 107,
-      "energy": 0.6335248266330475,
+      "time": 110.08665079588401,
+      "energy": 0.33344272908636435,
       "isImpact": true
     },
     {
-      "time": 107.2,
-      "energy": 0.5501953861242342,
-      "isImpact": true
+      "time": 110.5563852149666,
+      "energy": 0.33344272908636435,
+      "isImpact": false
     },
     {
-      "time": 107.45,
-      "energy": 0.6000721399422696,
-      "isImpact": true
+      "time": 111.00983409203647,
+      "energy": 0.33344272908636435,
+      "isImpact": false
     },
     {
-      "time": 107.92500000000001,
-      "energy": 0.5986389131507822,
-      "isImpact": true
+      "time": 111.47083429819112,
+      "energy": 0.33344272908636435,
+      "isImpact": false
     },
     {
-      "time": 108.375,
-      "energy": 0.6001856679029824,
+      "time": 111.93582415164805,
+      "energy": 0.3419235730477902,
       "isImpact": true
     },
     {
-      "time": 108.85000000000001,
-      "energy": 0.6568236375640316,
-      "isImpact": true
+      "time": 112.40189130488112,
+      "energy": 0.3419235730477902,
+      "isImpact": false
     },
     {
-      "time": 109.30000000000001,
-      "energy": 0.631913563348921,
-      "isImpact": true
+      "time": 112.86280216053797,
+      "energy": 0.3419235730477902,
+      "isImpact": false
     },
     {
-      "time": 109.775,
-      "energy": 0.6165701630799071,
+      "time": 113.7885233737737,
+      "energy": 0.3563708295190114,
       "isImpact": true
     },
     {
-      "time": 110.22500000000001,
-      "energy": 0.6102876966543859,
-      "isImpact": true
+      "time": 114.2449847817462,
+      "energy": 0.3563708295190114,
+      "isImpact": false
     },
     {
-      "time": 110.7,
-      "energy": 0.5950542040082809,
-      "isImpact": true
+      "time": 114.70821364548073,
+      "energy": 0.3563708295190114,
+      "isImpact": false
     },
     {
-      "time": 111.15,
-      "energy": 0.6067992682400469,
-      "isImpact": true
+      "time": 115.17205072106908,
+      "energy": 0.3563708295190114,
+      "isImpact": false
     },
     {
-      "time": 111.625,
-      "energy": 0.5943039121031015,
+      "time": 115.63343930408926,
+      "energy": 0.34580743801857733,
       "isImpact": true
     },
     {
-      "time": 112.075,
-      "energy": 0.6292719481556899,
-      "isImpact": true
+      "time": 116.09493646932472,
+      "energy": 0.34580743801857733,
+      "isImpact": false
     },
     {
-      "time": 112.55000000000001,
-      "energy": 0.6032470345890305,
-      "isImpact": true
+      "time": 116.55291642099402,
+      "energy": 0.34580743801857733,
+      "isImpact": false
     },
     {
-      "time": 113,
-      "energy": 0.624608289650839,
-      "isImpact": true
+      "time": 117.01340544293548,
+      "energy": 0.34580743801857733,
+      "isImpact": false
     },
     {
-      "time": 113.47500000000001,
-      "energy": 0.6128405667239529,
+      "time": 117.4755595288162,
+      "energy": 0.35410886820537646,
       "isImpact": true
     },
     {
-      "time": 113.92500000000001,
-      "energy": 0.6076647353295508,
-      "isImpact": true
+      "time": 117.93450788392296,
+      "energy": 0.35410886820537646,
+      "isImpact": false
     },
     {
-      "time": 114.375,
-      "energy": 0.6217016396689512,
-      "isImpact": true
+      "time": 118.40313655548852,
+      "energy": 0.35410886820537646,
+      "isImpact": false
     },
     {
-      "time": 114.85000000000001,
-      "energy": 0.640254043799647,
-      "isImpact": true
+      "time": 118.85587148867978,
+      "energy": 0.35410886820537646,
+      "isImpact": false
     },
     {
-      "time": 115.30000000000001,
-      "energy": 0.6263988756243505,
+      "time": 119.31853668477713,
+      "energy": 0.35215014942358674,
       "isImpact": true
     },
     {
-      "time": 115.775,
-      "energy": 0.6253807324218466,
-      "isImpact": true
+      "time": 119.78298705705956,
+      "energy": 0.35215014942358674,
+      "isImpact": false
     },
     {
-      "time": 116.22500000000001,
-      "energy": 0.6216976947018968,
-      "isImpact": true
+      "time": 120.24367451977174,
+      "energy": 0.35215014942358674,
+      "isImpact": false
     },
     {
-      "time": 116.7,
-      "energy": 0.6097950008030045,
-      "isImpact": true
+      "time": 120.71156896009188,
+      "energy": 0.35215014942358674,
+      "isImpact": false
     },
     {
-      "time": 117.15,
-      "energy": 0.617491726069612,
+      "time": 121.16802371142168,
+      "energy": 0.2787928568576726,
       "isImpact": true
     },
     {
-      "time": 117.625,
-      "energy": 0.6119128900029202,
-      "isImpact": true
+      "time": 121.63061087932692,
+      "energy": 0.2787928568576726,
+      "isImpact": false
     },
     {
-      "time": 118.075,
-      "energy": 0.6381759001718685,
-      "isImpact": true
+      "time": 122.08524414026161,
+      "energy": 0.2787928568576726,
+      "isImpact": false
     },
     {
-      "time": 118.55000000000001,
-      "energy": 0.5962762350408435,
-      "isImpact": true
+      "time": 122.54799961862102,
+      "energy": 0.2787928568576726,
+      "isImpact": false
     },
     {
-      "time": 119,
-      "energy": 0.6300454375509535,
+      "time": 123.01555573876763,
+      "energy": 0.29371890249413735,
       "isImpact": true
     },
     {
-      "time": 119.45,
-      "energy": 0.5974400512420647,
-      "isImpact": true
+      "time": 123.47850155792544,
+      "energy": 0.29371890249413735,
+      "isImpact": false
     },
     {
-      "time": 119.92500000000001,
-      "energy": 0.6218794051894998,
-      "isImpact": true
+      "time": 123.9400260471104,
+      "energy": 0.29371890249413735,
+      "isImpact": false
     },
     {
-      "time": 120.375,
-      "energy": 0.6211245526439751,
-      "isImpact": true
+      "time": 124.40130389721966,
+      "energy": 0.29371890249413735,
+      "isImpact": false
     },
     {
-      "time": 120.85000000000001,
-      "energy": 0.6447438035385267,
+      "time": 124.85503148672956,
+      "energy": 0.3310074036047544,
       "isImpact": true
     },
     {
-      "time": 121.05000000000001,
-      "energy": 0.5290027857643695,
-      "isImpact": true
+      "time": 125.31674394463755,
+      "energy": 0.3310074036047544,
+      "isImpact": false
     },
     {
-      "time": 121.30000000000001,
-      "energy": 0.6301120010123418,
-      "isImpact": true
+      "time": 125.78769164133972,
+      "energy": 0.3310074036047544,
+      "isImpact": false
     },
     {
-      "time": 121.775,
-      "energy": 0.6097952412268945,
-      "isImpact": true
+      "time": 126.2411332599419,
+      "energy": 0.3310074036047544,
+      "isImpact": false
     },
     {
-      "time": 122.22500000000001,
-      "energy": 0.6075933062865412,
+      "time": 126.70731360515984,
+      "energy": 0.3479011989855189,
       "isImpact": true
     },
     {
-      "time": 122.45,
-      "energy": 0.451007275774485,
-      "isImpact": true
+      "time": 127.16682572254649,
+      "energy": 0.3479011989855189,
+      "isImpact": false
     },
     {
-      "time": 123.60000000000001,
-      "energy": 0.6160760130573295,
-      "isImpact": true
+      "time": 127.63263272429228,
+      "energy": 0.3479011989855189,
+      "isImpact": false
     },
     {
-      "time": 124.075,
-      "energy": 0.6295816880118296,
-      "isImpact": true
+      "time": 128.0916432513368,
+      "energy": 0.3479011989855189,
+      "isImpact": false
     },
     {
-      "time": 124.525,
-      "energy": 0.6257611507741438,
+      "time": 128.55564150554812,
+      "energy": 0.35630348065464795,
       "isImpact": true
     },
     {
-      "time": 125,
-      "energy": 0.6229912294760469,
-      "isImpact": true
+      "time": 129.01736002301197,
+      "energy": 0.35630348065464795,
+      "isImpact": false
     },
     {
-      "time": 125.45,
-      "energy": 0.608174775905387,
-      "isImpact": true
+      "time": 129.47819655144787,
+      "energy": 0.35630348065464795,
+      "isImpact": false
     },
     {
-      "time": 125.92500000000001,
-      "energy": 0.5985304738889651,
-      "isImpact": true
+      "time": 129.93814954644694,
+      "energy": 0.35630348065464795,
+      "isImpact": false
     },
     {
-      "time": 126.375,
-      "energy": 0.6073400056476702,
+      "time": 130.3939382636718,
+      "energy": 0.3583683990592576,
       "isImpact": true
     },
     {
-      "time": 126.85000000000001,
-      "energy": 0.6292592307517655,
-      "isImpact": true
+      "time": 130.85829752731485,
+      "energy": 0.3583683990592576,
+      "isImpact": false
     },
     {
-      "time": 127.30000000000001,
-      "energy": 0.6285225391743234,
-      "isImpact": true
+      "time": 131.32630746426491,
+      "energy": 0.3583683990592576,
+      "isImpact": false
     },
     {
-      "time": 127.775,
-      "energy": 0.621601230279926,
-      "isImpact": true
+      "time": 131.77895034608088,
+      "energy": 0.3583683990592576,
+      "isImpact": false
     },
     {
-      "time": 128.225,
-      "energy": 0.6370626954780791,
+      "time": 132.24208781822776,
+      "energy": 0.3509169164054829,
       "isImpact": true
     },
     {
-      "time": 128.70000000000002,
-      "energy": 0.6177373968126803,
-      "isImpact": true
+      "time": 132.70791548174287,
+      "energy": 0.3509169164054829,
+      "isImpact": false
     },
     {
-      "time": 129.15,
-      "energy": 0.6168829910333778,
-      "isImpact": true
+      "time": 133.16344962634142,
+      "energy": 0.3509169164054829,
+      "isImpact": false
     },
     {
-      "time": 129.625,
-      "energy": 0.6046603147955676,
-      "isImpact": true
+      "time": 133.63365079842316,
+      "energy": 0.3509169164054829,
+      "isImpact": false
     },
     {
-      "time": 130.07500000000002,
-      "energy": 0.6325163528038641,
+      "time": 134.09112491053438,
+      "energy": 0.3335745886203171,
       "isImpact": true
     },
     {
-      "time": 130.525,
-      "energy": 0.6124629193729071,
-      "isImpact": true
+      "time": 134.55703781254527,
+      "energy": 0.3335745886203171,
+      "isImpact": false
     },
     {
-      "time": 131,
-      "energy": 0.6288603450517688,
-      "isImpact": true
+      "time": 135.016602671274,
+      "energy": 0.3335745886203171,
+      "isImpact": false
     },
     {
-      "time": 131.475,
-      "energy": 0.6080668276277106,
-      "isImpact": true
+      "time": 135.47328144664334,
+      "energy": 0.3335745886203171,
+      "isImpact": false
     },
     {
-      "time": 131.925,
-      "energy": 0.6179500504427741,
+      "time": 135.94279988970658,
+      "energy": 0.33137956873329816,
       "isImpact": true
     },
     {
-      "time": 132.375,
-      "energy": 0.616908659853597,
-      "isImpact": true
+      "time": 136.40422887820145,
+      "energy": 0.33137956873329816,
+      "isImpact": false
     },
     {
-      "time": 132.85,
-      "energy": 0.6426162229783747,
-      "isImpact": true
+      "time": 136.85671784912162,
+      "energy": 0.33137956873329816,
+      "isImpact": false
     },
     {
-      "time": 133.3,
-      "energy": 0.6280106408793857,
-      "isImpact": true
+      "time": 137.31996876147818,
+      "energy": 0.33137956873329816,
+      "isImpact": false
     },
     {
-      "time": 133.775,
-      "energy": 0.6083997255495143,
+      "time": 137.78216015722307,
+      "energy": 0.33896422054996866,
       "isImpact": true
     },
     {
-      "time": 134.225,
-      "energy": 0.619984349856871,
-      "isImpact": true
+      "time": 138.2415214299629,
+      "energy": 0.33896422054996866,
+      "isImpact": false
     },
     {
-      "time": 134.70000000000002,
-      "energy": 0.6006626365462515,
-      "isImpact": true
+      "time": 138.70081169725066,
+      "energy": 0.33896422054996866,
+      "isImpact": false
     },
     {
-      "time": 135.15,
-      "energy": 0.6105883321569117,
-      "isImpact": true
+      "time": 139.16987623398484,
+      "energy": 0.33896422054996866,
+      "isImpact": false
     },
     {
-      "time": 135.625,
-      "energy": 0.5950983947211067,
+      "time": 139.63263660278835,
+      "energy": 0.34229493515404014,
       "isImpact": true
     },
     {
-      "time": 136.07500000000002,
-      "energy": 0.6271643864169563,
-      "isImpact": true
+      "time": 140.08744613883968,
+      "energy": 0.34229493515404014,
+      "isImpact": false
     },
     {
-      "time": 136.525,
-      "energy": 0.6111931015950471,
-      "isImpact": true
+      "time": 140.55818306246752,
+      "energy": 0.34229493515404014,
+      "isImpact": false
     },
     {
-      "time": 137,
-      "energy": 0.6181775051255489,
-      "isImpact": true
+      "time": 141.01851798813846,
+      "energy": 0.34229493515404014,
+      "isImpact": false
     },
     {
-      "time": 137.475,
-      "energy": 0.6093148579622256,
+      "time": 141.47797822705152,
+      "energy": 0.35368232939461286,
       "isImpact": true
     },
     {
-      "time": 137.925,
-      "energy": 0.5990750126679796,
-      "isImpact": true
+      "time": 141.93284887775576,
+      "energy": 0.35368232939461286,
+      "isImpact": false
     },
     {
-      "time": 138.375,
-      "energy": 0.6214987234545617,
-      "isImpact": true
+      "time": 142.4006928062619,
+      "energy": 0.35368232939461286,
+      "isImpact": false
     },
     {
-      "time": 138.85,
-      "energy": 0.6301488693867079,
-      "isImpact": true
+      "time": 142.86107434279813,
+      "energy": 0.35368232939461286,
+      "isImpact": false
     },
     {
-      "time": 139.3,
-      "energy": 0.6220434824036187,
+      "time": 143.31706769844737,
+      "energy": 0.3524656468126969,
       "isImpact": true
     },
     {
-      "time": 139.775,
-      "energy": 0.6057740816849252,
-      "isImpact": true
+      "time": 143.77950593528286,
+      "energy": 0.3524656468126969,
+      "isImpact": false
     },
     {
-      "time": 140.225,
-      "energy": 0.6219606528256415,
-      "isImpact": true
+      "time": 144.24585302966474,
+      "energy": 0.3524656468126969,
+      "isImpact": false
     },
     {
-      "time": 140.70000000000002,
-      "energy": 0.6091239156448596,
-      "isImpact": true
+      "time": 144.70729857725482,
+      "energy": 0.3524656468126969,
+      "isImpact": false
     },
     {
-      "time": 141.15,
-      "energy": 0.6090605068941183,
+      "time": 145.16436956600776,
+      "energy": 0.3590303054935303,
       "isImpact": true
     },
     {
-      "time": 141.625,
-      "energy": 0.6090842762929396,
-      "isImpact": true
+      "time": 145.6341614471093,
+      "energy": 0.3590303054935303,
+      "isImpact": false
     },
     {
-      "time": 142.07500000000002,
-      "energy": 0.6391939610467312,
-      "isImpact": true
+      "time": 146.088452867031,
+      "energy": 0.3590303054935303,
+      "isImpact": false
     },
     {
-      "time": 142.55,
-      "energy": 0.5982842336038283,
-      "isImpact": true
+      "time": 146.55774812139936,
+      "energy": 0.3590303054935303,
+      "isImpact": false
     },
     {
-      "time": 143,
-      "energy": 0.6394867072175575,
+      "time": 147.01856071161782,
+      "energy": 0.33976216870014375,
       "isImpact": true
     },
     {
-      "time": 143.45000000000002,
-      "energy": 0.5967476637869389,
-      "isImpact": true
+      "time": 147.47306246664854,
+      "energy": 0.33976216870014375,
+      "isImpact": false
     },
     {
-      "time": 143.925,
-      "energy": 0.6214096244913249,
-      "isImpact": true
+      "time": 147.9379677411112,
+      "energy": 0.33976216870014375,
+      "isImpact": false
     },
     {
-      "time": 144.375,
-      "energy": 0.620324545507433,
-      "isImpact": true
+      "time": 148.40227660877264,
+      "energy": 0.33976216870014375,
+      "isImpact": false
     },
     {
-      "time": 144.85,
-      "energy": 0.6302318506557522,
+      "time": 148.85419537663586,
+      "energy": 0.3333729437344202,
       "isImpact": true
     },
     {
-      "time": 145.3,
-      "energy": 0.6247709540803291,
-      "isImpact": true
+      "time": 149.32619418442695,
+      "energy": 0.3333729437344202,
+      "isImpact": false
     },
     {
-      "time": 145.775,
-      "energy": 0.6475556304953596,
-      "isImpact": true
+      "time": 149.78637312455555,
+      "energy": 0.3333729437344202,
+      "isImpact": false
     },
     {
-      "time": 146.225,
-      "energy": 0.632188743729221,
-      "isImpact": true
+      "time": 150.24414770957165,
+      "energy": 0.3333729437344202,
+      "isImpact": false
     },
     {
-      "time": 146.70000000000002,
-      "energy": 0.6166796143835396,
+      "time": 150.71117721547589,
+      "energy": 0.28427619787815356,
       "isImpact": true
     },
     {
-      "time": 147.15,
-      "energy": 0.615586044492237,
-      "isImpact": true
+      "time": 151.16870087497472,
+      "energy": 0.28427619787815356,
+      "isImpact": false
     },
     {
-      "time": 147.625,
-      "energy": 0.6018957867917202,
-      "isImpact": true
+      "time": 151.63507410722636,
+      "energy": 0.28427619787815356,
+      "isImpact": false
     },
     {
-      "time": 148.07500000000002,
-      "energy": 0.6313606889669734,
-      "isImpact": true
+      "time": 152.0893320875227,
+      "energy": 0.28427619787815356,
+      "isImpact": false
     },
     {
-      "time": 148.525,
-      "energy": 0.6174363916877619,
+      "time": 152.55213191700685,
+      "energy": 0.12485631967087417,
       "isImpact": true
     },
     {
-      "time": 149,
-      "energy": 0.6213430666045038,
+      "time": 154.4037543466177,
+      "energy": 0.12467341208295159,
       "isImpact": true
     },
     {
-      "time": 149.20000000000002,
-      "energy": 0.5145920304903517,
+      "time": 156.24032974844874,
+      "energy": 0.11842683299191138,
       "isImpact": true
     },
     {
-      "time": 149.45000000000002,
-      "energy": 0.6082709384070252,
+      "time": 158.08881697083456,
+      "energy": 0.11617882584179444,
       "isImpact": true
     },
     {
-      "time": 149.925,
-      "energy": 0.603257031647723,
+      "time": 159.93596115912874,
+      "energy": 0.12546563642345543,
       "isImpact": true
     },
     {
-      "time": 150.375,
-      "energy": 0.612195520866653,
+      "time": 161.78165794624266,
+      "energy": 0.11719361229834523,
       "isImpact": true
     },
     {
-      "time": 150.85,
-      "energy": 0.6315745119244734,
+      "time": 163.6298239367675,
+      "energy": 0.11882812285107706,
       "isImpact": true
     },
     {
-      "time": 151.3,
-      "energy": 0.6199146051200837,
+      "time": 165.47947456891094,
+      "energy": 0.12315587248430375,
       "isImpact": true
     },
     {
-      "time": 151.775,
-      "energy": 0.6131558903061642,
-      "isImpact": true
+      "time": 166.39646488019199,
+      "energy": 0.12315587248430375,
+      "isImpact": false
     },
     {
-      "time": 152.85,
-      "energy": 0.19720205120683124,
+      "time": 167.32414817612997,
+      "energy": 0.12788206267920904,
       "isImpact": true
     },
     {
-      "time": 153.07500000000002,
-      "energy": 0.22642876528099604,
-      "isImpact": true
+      "time": 168.2413368770382,
+      "energy": 0.12788206267920904,
+      "isImpact": false
     },
     {
-      "time": 153.375,
-      "energy": 0.26099700690028765,
+      "time": 169.16354850000968,
+      "energy": 0.1181572054767216,
       "isImpact": true
     },
     {
-      "time": 153.82500000000002,
-      "energy": 0.27416764569469626,
-      "isImpact": true
+      "time": 170.0948721749863,
+      "energy": 0.1181572054767216,
+      "isImpact": false
     },
     {
-      "time": 154.3,
-      "energy": 0.25912514375181767,
+      "time": 171.01639960704082,
+      "energy": 0.12144310046942997,
       "isImpact": true
     },
     {
-      "time": 154.75,
-      "energy": 0.30526315258044273,
-      "isImpact": true
+      "time": 171.93141771249526,
+      "energy": 0.12144310046942997,
+      "isImpact": false
     },
     {
-      "time": 155.22500000000002,
-      "energy": 0.26270604871477216,
+      "time": 172.86155976222022,
+      "energy": 0.11537013310403944,
       "isImpact": true
     },
     {
-      "time": 155.675,
-      "energy": 0.3130715907256213,
-      "isImpact": true
+      "time": 173.78086849263585,
+      "energy": 0.11537013310403944,
+      "isImpact": false
     },
     {
-      "time": 156.125,
-      "energy": 0.26265447233392897,
+      "time": 174.7069345343625,
+      "energy": 0.12479830142974711,
       "isImpact": true
     },
     {
-      "time": 156.60000000000002,
-      "energy": 0.28678995519191264,
-      "isImpact": true
+      "time": 175.62374971634293,
+      "energy": 0.12479830142974711,
+      "isImpact": false
     },
     {
-      "time": 157.05,
-      "energy": 0.27299742463355475,
+      "time": 176.54869294041404,
+      "energy": 0.11621529378380938,
       "isImpact": true
     },
     {
-      "time": 157.525,
-      "energy": 0.2828135302899993,
-      "isImpact": true
+      "time": 177.47899485213932,
+      "energy": 0.11621529378380938,
+      "isImpact": false
     },
     {
-      "time": 157.97500000000002,
-      "energy": 0.27161315749543913,
+      "time": 178.3999840848851,
+      "energy": 0.12213162350411616,
       "isImpact": true
     },
     {
-      "time": 158.45000000000002,
-      "energy": 0.2946579255548617,
-      "isImpact": true
+      "time": 179.32343268531557,
+      "energy": 0.12213162350411616,
+      "isImpact": false
     },
     {
-      "time": 158.9,
-      "energy": 0.2685779629894272,
+      "time": 180.24694936230998,
+      "energy": 0.11987734473779063,
       "isImpact": true
     },
     {
-      "time": 159.375,
-      "energy": 0.266139757923239,
-      "isImpact": true
+      "time": 181.16254962481275,
+      "energy": 0.11987734473779063,
+      "isImpact": false
     },
     {
-      "time": 159.82500000000002,
-      "energy": 0.26272252946819447,
+      "time": 182.0881398079366,
+      "energy": 0.13826243274489858,
       "isImpact": true
     },
     {
-      "time": 160.275,
-      "energy": 0.28149133978984303,
-      "isImpact": true
+      "time": 183.01274629211818,
+      "energy": 0.13826243274489858,
+      "isImpact": false
     },
     {
-      "time": 160.47500000000002,
-      "energy": 0.22955037987783808,
+      "time": 183.93162472413007,
+      "energy": 0.12099765695639621,
       "isImpact": true
     },
     {
-      "time": 160.75,
-      "energy": 0.28526617523473285,
-      "isImpact": true
+      "time": 184.85925672390877,
+      "energy": 0.12099765695639621,
+      "isImpact": false
     },
     {
-      "time": 161.20000000000002,
-      "energy": 0.238429046664354,
+      "time": 185.78034024641272,
+      "energy": 0.11487131794565578,
       "isImpact": true
     },
     {
-      "time": 161.675,
-      "energy": 0.29143701342388384,
-      "isImpact": true
+      "time": 186.7048829903788,
+      "energy": 0.11487131794565578,
+      "isImpact": false
     },
     {
-      "time": 162.125,
-      "energy": 0.2608245571667562,
+      "time": 187.62415682489015,
+      "energy": 0.07291513678038233,
       "isImpact": true
     },
     {
-      "time": 162.60000000000002,
-      "energy": 0.28361831225259776,
-      "isImpact": true
+      "time": 188.54928128408727,
+      "energy": 0.07291513678038233,
+      "isImpact": false
     },
     {
-      "time": 163.05,
-      "energy": 0.2795479683791166,
+      "time": 189.4698621753595,
+      "energy": 0.061830036598719225,
       "isImpact": true
     },
     {
-      "time": 163.525,
-      "energy": 0.29740135159957415,
-      "isImpact": true
+      "time": 190.39429585299436,
+      "energy": 0.061830036598719225,
+      "isImpact": false
     },
     {
-      "time": 163.97500000000002,
-      "energy": 0.268971406319104,
+      "time": 191.32356332434395,
+      "energy": 0.08302112367342504,
       "isImpact": true
     },
     {
-      "time": 164.45000000000002,
-      "energy": 0.2943160811289286,
-      "isImpact": true
+      "time": 192.2458467205774,
+      "energy": 0.08302112367342504,
+      "isImpact": false
     },
     {
-      "time": 164.9,
-      "energy": 0.27250631894802574,
+      "time": 193.16288183257817,
+      "energy": 0.08622810638492821,
       "isImpact": true
     },
     {
-      "time": 165.375,
-      "energy": 0.26996780962027844,
-      "isImpact": true
+      "time": 194.08847936429132,
+      "energy": 0.08622810638492821,
+      "isImpact": false
     },
     {
-      "time": 165.82500000000002,
-      "energy": 0.27942670612189835,
+      "time": 195.01966068904582,
+      "energy": 0.08390584681287212,
       "isImpact": true
     },
     {
-      "time": 166.3,
-      "energy": 0.2678693895029974,
-      "isImpact": true
+      "time": 195.94174360272265,
+      "energy": 0.08390584681287212,
+      "isImpact": false
     },
     {
-      "time": 166.75,
-      "energy": 0.27881501937268605,
+      "time": 196.85680750028047,
+      "energy": 0.07588029461041426,
       "isImpact": true
     },
     {
-      "time": 167.20000000000002,
-      "energy": 0.2698595013499717,
-      "isImpact": true
+      "time": 197.78582330435816,
+      "energy": 0.07588029461041426,
+      "isImpact": false
     },
     {
-      "time": 167.675,
-      "energy": 0.2993926787971378,
+      "time": 198.70097417700842,
+      "energy": 0.07318649722912282,
       "isImpact": true
     },
     {
-      "time": 168.125,
-      "energy": 0.2607563925672459,
-      "isImpact": true
+      "time": 199.6319893280628,
+      "energy": 0.07318649722912282,
+      "isImpact": false
     },
     {
-      "time": 168.60000000000002,
-      "energy": 0.29050659909449406,
+      "time": 200.5539520868657,
+      "energy": 0.0719911038930859,
       "isImpact": true
     },
     {
-      "time": 169.05,
-      "energy": 0.2709751340454736,
-      "isImpact": true
+      "time": 201.47339250594067,
+      "energy": 0.0719911038930859,
+      "isImpact": false
     },
     {
-      "time": 169.525,
-      "energy": 0.30638445276979637,
+      "time": 202.4002786670113,
+      "energy": 0.07242014467725222,
       "isImpact": true
     },
     {
-      "time": 169.97500000000002,
-      "energy": 0.2920168265053488,
-      "isImpact": true
+      "time": 203.3270634810982,
+      "energy": 0.07242014467725222,
+      "isImpact": false
     },
     {
-      "time": 170.45000000000002,
-      "energy": 0.26165282233405746,
+      "time": 204.2387472386325,
+      "energy": 0.08236640482209451,
       "isImpact": true
     },
     {
-      "time": 170.9,
-      "energy": 0.28751638609703384,
-      "isImpact": true
+      "time": 205.17335090336408,
+      "energy": 0.08236640482209451,
+      "isImpact": false
     },
     {
-      "time": 171.375,
-      "energy": 0.27519652669222167,
+      "time": 206.0922933998281,
+      "energy": 0.08367159928774011,
       "isImpact": true
     },
     {
-      "time": 171.82500000000002,
-      "energy": 0.291996280812271,
-      "isImpact": true
+      "time": 207.01647002614956,
+      "energy": 0.08367159928774011,
+      "isImpact": false
     },
     {
-      "time": 172.275,
-      "energy": 0.2405918616397171,
+      "time": 207.933817955663,
+      "energy": 0.08295953676816026,
       "isImpact": true
     },
     {
-      "time": 172.75,
-      "energy": 0.28132275137336415,
-      "isImpact": true
+      "time": 208.85998844009234,
+      "energy": 0.08295953676816026,
+      "isImpact": false
     },
     {
-      "time": 173.20000000000002,
-      "energy": 0.24794306939884384,
+      "time": 209.78481421433293,
+      "energy": 0.08539680812420421,
       "isImpact": true
     },
     {
-      "time": 173.675,
-      "energy": 0.27606621711131074,
-      "isImpact": true
+      "time": 210.70695785553826,
+      "energy": 0.08539680812420421,
+      "isImpact": false
     },
     {
-      "time": 174.125,
-      "energy": 0.26852936677097683,
+      "time": 211.62519915841824,
+      "energy": 0.07914155508413373,
       "isImpact": true
     },
     {
-      "time": 174.60000000000002,
-      "energy": 0.2763638494163419,
-      "isImpact": true
+      "time": 212.5501904326522,
+      "energy": 0.07914155508413373,
+      "isImpact": false
     },
     {
-      "time": 175.05,
-      "energy": 0.28356742906996574,
+      "time": 213.46943789285083,
+      "energy": 0.07534275350701315,
       "isImpact": true
     },
     {
-      "time": 175.525,
-      "energy": 0.275934778259145,
-      "isImpact": true
+      "time": 214.3960966717801,
+      "energy": 0.07534275350701315,
+      "isImpact": false
     },
     {
-      "time": 175.97500000000002,
-      "energy": 0.27261156067016973,
+      "time": 215.3272173542039,
+      "energy": 0.07453115952001302,
       "isImpact": true
     },
     {
-      "time": 176.45000000000002,
-      "energy": 0.27995515468683535,
-      "isImpact": true
+      "time": 216.24790719167433,
+      "energy": 0.07453115952001302,
+      "isImpact": false
     },
     {
-      "time": 176.9,
-      "energy": 0.26094369111011184,
+      "time": 217.16929622374948,
+      "energy": 0.0747522389056407,
       "isImpact": true
     },
     {
-      "time": 177.375,
-      "energy": 0.25651665297941206,
-      "isImpact": true
+      "time": 218.0906987066508,
+      "energy": 0.0747522389056407,
+      "isImpact": false
     },
     {
-      "time": 177.82500000000002,
-      "energy": 0.27692595076509335,
+      "time": 219.01237818083172,
+      "energy": 0.07694453348364046,
       "isImpact": true
     },
     {
-      "time": 178.3,
-      "energy": 0.23643875199728273,
-      "isImpact": true
+      "time": 219.94096051824508,
+      "energy": 0.07694453348364046,
+      "isImpact": false
     },
     {
-      "time": 178.75,
-      "energy": 0.29647420274649605,
+      "time": 220.86137019069562,
+      "energy": 0.07996874085679095,
       "isImpact": true
     },
     {
-      "time": 179.20000000000002,
-      "energy": 0.2589059320771058,
-      "isImpact": true
+      "time": 221.78087983417527,
+      "energy": 0.07996874085679095,
+      "isImpact": false
     },
     {
-      "time": 179.675,
-      "energy": 0.3002237392151901,
+      "time": 222.70552802852333,
+      "energy": 0.07945581972498936,
       "isImpact": true
     },
     {
-      "time": 180.125,
-      "energy": 0.2504609240928708,
-      "isImpact": true
+      "time": 223.632674829631,
+      "energy": 0.07945581972498936,
+      "isImpact": false
     },
     {
-      "time": 180.60000000000002,
-      "energy": 0.30991930030685766,
+      "time": 224.55341738190685,
+      "energy": 0.07793084121854331,
       "isImpact": true
     },
     {
-      "time": 181.05,
-      "energy": 0.2843044569875652,
-      "isImpact": true
+      "time": 225.47794036401393,
+      "energy": 0.07793084121854331,
+      "isImpact": false
     },
     {
-      "time": 181.525,
-      "energy": 0.2926795601298224,
+      "time": 226.39995454683057,
+      "energy": 0.0749814644806989,
       "isImpact": true
     },
     {
-      "time": 181.97500000000002,
-      "energy": 0.2726291353208286,
-      "isImpact": true
+      "time": 227.32059878785967,
+      "energy": 0.0749814644806989,
+      "isImpact": false
     },
     {
-      "time": 182.45000000000002,
-      "energy": 0.2881400052645919,
+      "time": 228.24132371089195,
+      "energy": 0.07472717304198558,
       "isImpact": true
     },
     {
-      "time": 241.775,
-      "energy": 0.1492015127020193,
-      "isImpact": true
+      "time": 229.16448651082214,
+      "energy": 0.07472717304198558,
+      "isImpact": false
     },
     {
-      "time": 242,
-      "energy": 0.15024382734390893,
+      "time": 230.08985608434818,
+      "energy": 0.07566492829641476,
       "isImpact": true
     },
     {
-      "time": 252.875,
-      "energy": 0.3963288460221281,
-      "isImpact": true
+      "time": 231.00797280301558,
+      "energy": 0.07566492829641476,
+      "isImpact": false
     },
     {
-      "time": 254.25,
-      "energy": 0.11561044277224759,
+      "time": 231.9404457326348,
+      "energy": 0.0738702907841651,
       "isImpact": true
     },
     {
-      "time": 256.05,
-      "energy": 0.0833066385755926,
-      "isImpact": true
+      "time": 232.86203402586406,
+      "energy": 0.0738702907841651,
+      "isImpact": false
     },
     {
-      "time": 257.325,
-      "energy": 0.08209088019342192,
+      "time": 233.78512685002892,
+      "energy": 0.08156818742611949,
       "isImpact": true
     },
     {
-      "time": 272.90000000000003,
-      "energy": 0.09338328534733303,
-      "isImpact": true
+      "time": 234.71066750163465,
+      "energy": 0.08156818742611949,
+      "isImpact": false
     },
     {
-      "time": 275.1,
-      "energy": 0.08182141579697273,
+      "time": 235.63365443153705,
+      "energy": 0.0871973908145521,
       "isImpact": true
     },
     {
-      "time": 276.6,
-      "energy": 0.08435760008568584,
-      "isImpact": true
+      "time": 236.54655067606572,
+      "energy": 0.0871973908145521,
+      "isImpact": false
     },
     {
-      "time": 282.425,
-      "energy": 0.37726872900432634,
+      "time": 237.47306701070605,
+      "energy": 0.08400883889033194,
       "isImpact": true
     },
     {
-      "time": 282.825,
-      "energy": 0.18930354924212342,
-      "isImpact": true
+      "time": 238.39743299838298,
+      "energy": 0.08400883889033194,
+      "isImpact": false
     },
     {
-      "time": 283.375,
-      "energy": 0.11620867196722594,
+      "time": 239.32710971342604,
+      "energy": 0.05995901013459095,
       "isImpact": true
     },
     {
-      "time": 283.75,
-      "energy": 0.09035168382123027,
-      "isImpact": true
+      "time": 240.245171903641,
+      "energy": 0.05995901013459095,
+      "isImpact": false
     },
     {
-      "time": 284.2,
-      "energy": 0.08877375715573127,
+      "time": 241.17128805371885,
+      "energy": 0.09587377923722856,
       "isImpact": true
     },
     {
-      "time": 287.425,
-      "energy": 0.08534514334985581,
-      "isImpact": true
+      "time": 242.08750041321304,
+      "energy": 0.09587377923722856,
+      "isImpact": false
     },
     {
-      "time": 291.125,
-      "energy": 0.08411753916066063,
+      "time": 243.01297946416344,
+      "energy": 0.12028418900059468,
       "isImpact": true
     },
     {
-      "time": 297.175,
-      "energy": 0.41337907170378746,
-      "isImpact": true
+      "time": 243.93332559805603,
+      "energy": 0.12028418900059468,
+      "isImpact": false
     },
     {
-      "time": 297.6,
-      "energy": 0.18479175961863115,
+      "time": 244.86180784017247,
+      "energy": 0.11488840826499584,
       "isImpact": true
     },
     {
-      "time": 298.15000000000003,
-      "energy": 0.12671483574430456,
-      "isImpact": true
+      "time": 245.78719879077374,
+      "energy": 0.11488840826499584,
+      "isImpact": false
     },
     {
-      "time": 298.55,
-      "energy": 0.0960672890046925,
+      "time": 246.7070160760318,
+      "energy": 0.05621355066136445,
       "isImpact": true
     },
     {
-      "time": 298.975,
-      "energy": 0.0915588866691486,
-      "isImpact": true
+      "time": 247.62823973760393,
+      "energy": 0.05621355066136445,
+      "isImpact": false
     },
     {
-      "time": 300.125,
-      "energy": 0.08264251264349928,
+      "time": 248.55373178685323,
+      "energy": 0.02697953644963148,
       "isImpact": true
     },
     {
-      "time": 301.27500000000003,
-      "energy": 0.08629645242177553,
-      "isImpact": true
+      "time": 249.47058811634597,
+      "energy": 0.02697953644963148,
+      "isImpact": false
     },
     {
-      "time": 304.27500000000003,
-      "energy": 0.0840284043120423,
+      "time": 250.3984588648096,
+      "energy": 0.0467298538965374,
       "isImpact": true
     },
     {
-      "time": 307.175,
-      "energy": 0.08259269607434275,
-      "isImpact": true
+      "time": 251.32735678860467,
+      "energy": 0.0467298538965374,
+      "isImpact": false
     },
     {
-      "time": 309.70000000000005,
-      "energy": 0.08040093538356047,
+      "time": 252.24618961798234,
+      "energy": 0.10618545671341204,
       "isImpact": true
     },
     {
-      "time": 310.27500000000003,
-      "energy": 0.08973158676616631,
+      "time": 254.09509144576452,
+      "energy": 0.049298183594420134,
       "isImpact": true
     },
     {
-      "time": 310.975,
-      "energy": 0.08413584781966706,
+      "time": 255.9392449966501,
+      "energy": 0.0465234237954604,
       "isImpact": true
     },
     {
-      "time": 311.20000000000005,
-      "energy": 0.08329927308072435,
+      "time": 257.77986178366075,
+      "energy": 0.04198214194385673,
       "isImpact": true
     },
     {
-      "time": 311.925,
-      "energy": 0.6025212370148323,
+      "time": 259.63121934664736,
+      "energy": 0.04883725201504327,
       "isImpact": true
     },
     {
-      "time": 312.375,
-      "energy": 0.6034022232792466,
+      "time": 261.47555839689386,
+      "energy": 0.04823577042285059,
       "isImpact": true
     },
     {
-      "time": 312.85,
-      "energy": 0.6294954106823814,
+      "time": 263.31619914721483,
+      "energy": 0.04826623587059825,
       "isImpact": true
     },
     {
-      "time": 313.3,
-      "energy": 0.6091335303153284,
+      "time": 265.1628405985082,
+      "energy": 0.048450724355476586,
       "isImpact": true
     },
     {
-      "time": 313.77500000000003,
-      "energy": 0.6056604488320534,
+      "time": 267.0183289764135,
+      "energy": 0.046446495037297364,
       "isImpact": true
     },
     {
-      "time": 314.225,
-      "energy": 0.6006339496434975,
+      "time": 268.8643069309108,
+      "energy": 0.04829714123784086,
       "isImpact": true
     },
     {
-      "time": 314.70000000000005,
-      "energy": 0.5980630373380311,
+      "time": 270.7059235399368,
+      "energy": 0.04887875261296619,
       "isImpact": true
     },
     {
-      "time": 315.15000000000003,
-      "energy": 0.611048585120459,
+      "time": 272.5467946547898,
+      "energy": 0.048975817776116835,
       "isImpact": true
     },
     {
-      "time": 315.625,
-      "energy": 0.6127232142271858,
+      "time": 274.3984599707025,
+      "energy": 0.04998925652223372,
       "isImpact": true
     },
     {
-      "time": 316.07500000000005,
-      "energy": 0.619521724788611,
+      "time": 276.2417337425597,
+      "energy": 0.04893405335877709,
       "isImpact": true
     },
     {
-      "time": 316.55,
-      "energy": 0.5967168206203128,
+      "time": 278.09583189005605,
+      "energy": 0.046931981871987,
       "isImpact": true
     },
     {
-      "time": 317,
-      "energy": 0.6362242874699345,
+      "time": 279.93206039193444,
+      "energy": 0.04916677389972899,
       "isImpact": true
     },
     {
-      "time": 317.45000000000005,
-      "energy": 0.5964783542152563,
+      "time": 281.7803832354041,
+      "energy": 0.08874175238131139,
       "isImpact": true
     },
     {
-      "time": 317.925,
-      "energy": 0.6150922773149854,
+      "time": 283.6305824890687,
+      "energy": 0.04179601742640365,
       "isImpact": true
     },
     {
-      "time": 318.375,
-      "energy": 0.6246691374303086,
+      "time": 285.4750618378559,
+      "energy": 0.03443627733258857,
       "isImpact": true
     },
     {
-      "time": 318.57500000000005,
-      "energy": 0.5510144763576063,
+      "time": 287.32286573192675,
+      "energy": 0.029945883198426625,
       "isImpact": true
     },
     {
-      "time": 318.85,
-      "energy": 0.6462688519843949,
-      "isImpact": true
+      "time": 288.2416240601923,
+      "energy": 0.029945883198426625,
+      "isImpact": false
     },
     {
-      "time": 319.3,
-      "energy": 0.6103242446666347,
+      "time": 289.16434867368633,
+      "energy": 0.03553838686003482,
       "isImpact": true
     },
     {
-      "time": 319.77500000000003,
-      "energy": 0.6229313947517565,
-      "isImpact": true
+      "time": 290.08769309507244,
+      "energy": 0.03553838686003482,
+      "isImpact": false
     },
     {
-      "time": 320.225,
-      "energy": 0.611216836249454,
+      "time": 291.0176728231579,
+      "energy": 0.03310210802017051,
       "isImpact": true
     },
     {
-      "time": 320.70000000000005,
-      "energy": 0.5948492566946177,
-      "isImpact": true
+      "time": 291.93752480714335,
+      "energy": 0.03310210802017051,
+      "isImpact": false
     },
     {
-      "time": 321.15000000000003,
-      "energy": 0.5924610784661986,
+      "time": 292.86105143752985,
+      "energy": 0.030702791466203038,
       "isImpact": true
     },
     {
-      "time": 321.625,
-      "energy": 0.6055439205428828,
-      "isImpact": true
+      "time": 293.7886775241019,
+      "energy": 0.030702791466203038,
+      "isImpact": false
     },
     {
-      "time": 322.07500000000005,
-      "energy": 0.6227355048519895,
+      "time": 294.7064628635965,
+      "energy": 0.03350742971727567,
       "isImpact": true
     },
     {
-      "time": 322.52500000000003,
-      "energy": 0.6051232209694226,
-      "isImpact": true
+      "time": 295.6264545187827,
+      "energy": 0.03350742971727567,
+      "isImpact": false
     },
     {
-      "time": 323,
-      "energy": 0.6220789040384535,
+      "time": 296.54998505013157,
+      "energy": 0.09153136126575888,
       "isImpact": true
     },
     {
-      "time": 323.475,
-      "energy": 0.6042830829855708,
+      "time": 298.3971585219065,
+      "energy": 0.04372585284178032,
       "isImpact": true
     },
     {
-      "time": 323.925,
-      "energy": 0.6073330216215015,
+      "time": 300.24534016397035,
+      "energy": 0.03613613018524118,
       "isImpact": true
     },
     {
-      "time": 324.375,
-      "energy": 0.6099437164530562,
+      "time": 302.0875167498787,
+      "energy": 0.03530942660855039,
       "isImpact": true
     },
     {
-      "time": 324.85,
-      "energy": 0.626048992091364,
+      "time": 303.93219781919817,
+      "energy": 0.03653822685009949,
       "isImpact": true
     },
     {
-      "time": 325.3,
-      "energy": 0.6153677798987405,
+      "time": 305.7802485864384,
+      "energy": 0.039736913569482016,
       "isImpact": true
     },
     {
-      "time": 325.77500000000003,
-      "energy": 0.6117905135000525,
+      "time": 307.63304891926947,
+      "energy": 0.03596308121994425,
       "isImpact": true
     },
     {
-      "time": 326.225,
-      "energy": 0.6110906538244603,
+      "time": 309.47324451261574,
+      "energy": 0.04229067602188116,
       "isImpact": true
     },
     {
-      "time": 326.70000000000005,
-      "energy": 0.6070965281356172,
+      "time": 311.3273524500128,
+      "energy": 0.2551430474793449,
       "isImpact": true
     },
     {
-      "time": 327.15000000000003,
-      "energy": 0.6052374066315427,
-      "isImpact": true
+      "time": 311.7828830901075,
+      "energy": 0.2551430474793449,
+      "isImpact": false
     },
     {
-      "time": 327.625,
-      "energy": 0.6265879660823542,
-      "isImpact": true
+      "time": 312.2460011678342,
+      "energy": 0.2551430474793449,
+      "isImpact": false
     },
     {
-      "time": 328.07500000000005,
-      "energy": 0.6423694706825583,
-      "isImpact": true
+      "time": 312.7055947399676,
+      "energy": 0.2551430474793449,
+      "isImpact": false
     },
     {
-      "time": 328.55,
-      "energy": 0.599544407844122,
+      "time": 313.16766913961465,
+      "energy": 0.3364251455513291,
       "isImpact": true
     },
     {
-      "time": 329,
-      "energy": 0.6405034967184137,
-      "isImpact": true
+      "time": 313.6339492857247,
+      "energy": 0.3364251455513291,
+      "isImpact": false
     },
     {
-      "time": 329.45000000000005,
-      "energy": 0.6016001869587968,
-      "isImpact": true
+      "time": 314.08717648006973,
+      "energy": 0.3364251455513291,
+      "isImpact": false
     },
     {
-      "time": 329.925,
-      "energy": 0.6072709921803155,
-      "isImpact": true
+      "time": 314.5502208192724,
+      "energy": 0.3364251455513291,
+      "isImpact": false
     },
     {
-      "time": 330.375,
-      "energy": 0.6090707258829898,
+      "time": 315.008019024209,
+      "energy": 0.34126700077631805,
       "isImpact": true
     },
     {
-      "time": 330.57500000000005,
-      "energy": 0.6058918409888129,
-      "isImpact": true
+      "time": 315.4758149020102,
+      "energy": 0.34126700077631805,
+      "isImpact": false
     },
     {
-      "time": 330.85,
-      "energy": 0.6095066739408005,
-      "isImpact": true
+      "time": 315.93355100130384,
+      "energy": 0.34126700077631805,
+      "isImpact": false
     },
     {
-      "time": 331.3,
-      "energy": 0.6168876336309443,
-      "isImpact": true
+      "time": 316.3943842395239,
+      "energy": 0.34126700077631805,
+      "isImpact": false
     },
     {
-      "time": 331.77500000000003,
-      "energy": 0.601842805499454,
+      "time": 316.8601365028807,
+      "energy": 0.35818982266904814,
       "isImpact": true
     },
     {
-      "time": 332.25,
-      "energy": 0.6047401966012803,
-      "isImpact": true
+      "time": 317.32634728530206,
+      "energy": 0.35818982266904814,
+      "isImpact": false
     },
     {
-      "time": 332.70000000000005,
-      "energy": 0.6280268006456485,
-      "isImpact": true
+      "time": 317.77916172649805,
+      "energy": 0.35818982266904814,
+      "isImpact": false
     },
     {
-      "time": 333.15000000000003,
-      "energy": 0.6043849649902533,
-      "isImpact": true
+      "time": 318.24776627278425,
+      "energy": 0.35818982266904814,
+      "isImpact": false
     },
     {
-      "time": 333.625,
-      "energy": 0.6267081244202005,
+      "time": 318.7029158446527,
+      "energy": 0.3462600308590726,
       "isImpact": true
     },
     {
-      "time": 334.07500000000005,
-      "energy": 0.623605994852386,
-      "isImpact": true
+      "time": 319.1650650170062,
+      "energy": 0.3462600308590726,
+      "isImpact": false
     },
     {
-      "time": 334.55,
-      "energy": 0.6149281461825374,
-      "isImpact": true
+      "time": 319.63164626175893,
+      "energy": 0.3462600308590726,
+      "isImpact": false
     },
     {
-      "time": 335,
-      "energy": 0.6274691170782597,
-      "isImpact": true
+      "time": 320.0901556599491,
+      "energy": 0.3462600308590726,
+      "isImpact": false
     },
     {
-      "time": 335.475,
-      "energy": 0.6275999123975993,
+      "time": 320.55653438141707,
+      "energy": 0.3369526340804309,
       "isImpact": true
     },
     {
-      "time": 335.925,
-      "energy": 0.6294263635329853,
-      "isImpact": true
+      "time": 321.01471454202186,
+      "energy": 0.3369526340804309,
+      "isImpact": false
     },
     {
-      "time": 336.375,
-      "energy": 0.6060455905489637,
-      "isImpact": true
+      "time": 321.4787498522302,
+      "energy": 0.3369526340804309,
+      "isImpact": false
     },
     {
-      "time": 336.85,
-      "energy": 0.6661221594323524,
-      "isImpact": true
+      "time": 321.9422268007868,
+      "energy": 0.3369526340804309,
+      "isImpact": false
     },
     {
-      "time": 337.3,
-      "energy": 0.625332250939386,
+      "time": 322.401643347232,
+      "energy": 0.33617082996616926,
       "isImpact": true
     },
     {
-      "time": 337.77500000000003,
-      "energy": 0.6160612692119292,
-      "isImpact": true
+      "time": 322.85568161232163,
+      "energy": 0.33617082996616926,
+      "isImpact": false
     },
     {
-      "time": 338.225,
-      "energy": 0.611797168181086,
-      "isImpact": true
+      "time": 323.31916552455937,
+      "energy": 0.33617082996616926,
+      "isImpact": false
     },
     {
-      "time": 339.15000000000003,
-      "energy": 0.5917060237316042,
-      "isImpact": true
+      "time": 323.7878463651198,
+      "energy": 0.33617082996616926,
+      "isImpact": false
     },
     {
-      "time": 339.625,
-      "energy": 0.5767396648575535,
+      "time": 324.2453772048878,
+      "energy": 0.3396571035657936,
       "isImpact": true
     },
     {
-      "time": 340.07500000000005,
-      "energy": 0.6221025485493665,
-      "isImpact": true
+      "time": 324.70159915257994,
+      "energy": 0.3396571035657936,
+      "isImpact": false
     },
     {
-      "time": 340.3,
-      "energy": 0.3995972101875673,
-      "isImpact": true
+      "time": 325.1645067629157,
+      "energy": 0.3396571035657936,
+      "isImpact": false
     },
     {
-      "time": 341.475,
-      "energy": 0.6154003471973153,
-      "isImpact": true
+      "time": 325.6235620600765,
+      "energy": 0.3396571035657936,
+      "isImpact": false
     },
     {
-      "time": 341.925,
-      "energy": 0.6022244653578755,
+      "time": 326.09079890133415,
+      "energy": 0.3594391862750103,
       "isImpact": true
     },
     {
-      "time": 342.375,
-      "energy": 0.6149682410305197,
-      "isImpact": true
+      "time": 326.5517781527402,
+      "energy": 0.3594391862750103,
+      "isImpact": false
     },
     {
-      "time": 342.85,
-      "energy": 0.6326020460047582,
-      "isImpact": true
+      "time": 327.0079678031984,
+      "energy": 0.3594391862750103,
+      "isImpact": false
     },
     {
-      "time": 343.3,
-      "energy": 0.6186798752806404,
-      "isImpact": true
+      "time": 327.4696131418672,
+      "energy": 0.3594391862750103,
+      "isImpact": false
     },
     {
-      "time": 343.77500000000003,
-      "energy": 0.635957588149176,
+      "time": 327.937886662983,
+      "energy": 0.36406077218804656,
       "isImpact": true
     },
     {
-      "time": 344.225,
-      "energy": 0.6260354972405497,
-      "isImpact": true
+      "time": 328.3985185800703,
+      "energy": 0.36406077218804656,
+      "isImpact": false
     },
     {
-      "time": 344.70000000000005,
-      "energy": 0.611801315271451,
-      "isImpact": true
+      "time": 328.86388215801594,
+      "energy": 0.36406077218804656,
+      "isImpact": false
     },
     {
-      "time": 345.15000000000003,
-      "energy": 0.6012756522033744,
-      "isImpact": true
+      "time": 329.3247839887384,
+      "energy": 0.36406077218804656,
+      "isImpact": false
     },
     {
-      "time": 345.625,
-      "energy": 0.5941809626065795,
+      "time": 329.7883688213424,
+      "energy": 0.3628657241173407,
       "isImpact": true
     },
     {
-      "time": 346.07500000000005,
-      "energy": 0.6171390983622985,
-      "isImpact": true
+      "time": 330.2423829357245,
+      "energy": 0.3628657241173407,
+      "isImpact": false
     },
     {
-      "time": 346.52500000000003,
-      "energy": 0.6324895091232516,
-      "isImpact": true
+      "time": 330.7099225389218,
+      "energy": 0.3628657241173407,
+      "isImpact": false
     },
     {
-      "time": 347,
-      "energy": 0.6218173340020583,
-      "isImpact": true
+      "time": 331.16975739112934,
+      "energy": 0.3628657241173407,
+      "isImpact": false
     },
     {
-      "time": 347.20000000000005,
-      "energy": 0.5188853456905216,
+      "time": 331.63277205322566,
+      "energy": 0.3665689288699328,
       "isImpact": true
     },
     {
-      "time": 347.45000000000005,
-      "energy": 0.5889203073986863,
-      "isImpact": true
+      "time": 332.0895241797986,
+      "energy": 0.3665689288699328,
+      "isImpact": false
     },
     {
-      "time": 347.925,
-      "energy": 0.5950970623821477,
-      "isImpact": true
+      "time": 332.5526884921757,
+      "energy": 0.3665689288699328,
+      "isImpact": false
     },
     {
-      "time": 348.375,
-      "energy": 0.5942724638999075,
-      "isImpact": true
+      "time": 333.00970389192616,
+      "energy": 0.3665689288699328,
+      "isImpact": false
     },
     {
-      "time": 348.85,
-      "energy": 0.6546070090158437,
+      "time": 333.4749500257766,
+      "energy": 0.36935154470606885,
       "isImpact": true
     },
     {
-      "time": 349.3,
-      "energy": 0.6134961747733401,
-      "isImpact": true
+      "time": 333.93364944014417,
+      "energy": 0.36935154470606885,
+      "isImpact": false
     },
     {
-      "time": 349.77500000000003,
-      "energy": 0.6080574699432926,
-      "isImpact": true
+      "time": 334.3991601483455,
+      "energy": 0.36935154470606885,
+      "isImpact": false
     },
     {
-      "time": 350.225,
-      "energy": 0.6057051506485909,
-      "isImpact": true
+      "time": 334.85419541814696,
+      "energy": 0.36935154470606885,
+      "isImpact": false
     },
     {
-      "time": 350.70000000000005,
-      "energy": 0.6062975360944777,
+      "time": 335.32750237316907,
+      "energy": 0.3809037413585573,
       "isImpact": true
     },
     {
-      "time": 351.15000000000003,
-      "energy": 0.6060424948172589,
-      "isImpact": true
+      "time": 335.77970447477975,
+      "energy": 0.3809037413585573,
+      "isImpact": false
     },
     {
-      "time": 351.625,
-      "energy": 0.6013130475953469,
-      "isImpact": true
+      "time": 336.2482247803339,
+      "energy": 0.3809037413585573,
+      "isImpact": false
     },
     {
-      "time": 352.07500000000005,
-      "energy": 0.6321454925080262,
-      "isImpact": true
+      "time": 336.7016178567525,
+      "energy": 0.3809037413585573,
+      "isImpact": false
     },
     {
-      "time": 352.55,
-      "energy": 0.6001644277181886,
+      "time": 337.1630439227652,
+      "energy": 0.37546936790262897,
       "isImpact": true
     },
     {
-      "time": 353,
-      "energy": 0.6216841019544125,
-      "isImpact": true
+      "time": 337.6300244051002,
+      "energy": 0.37546936790262897,
+      "isImpact": false
     },
     {
-      "time": 353.475,
-      "energy": 0.5903878484617455,
-      "isImpact": true
+      "time": 338.0854267262431,
+      "energy": 0.37546936790262897,
+      "isImpact": false
     },
     {
-      "time": 353.925,
-      "energy": 0.6093474567112286,
-      "isImpact": true
+      "time": 338.55410083367366,
+      "energy": 0.37546936790262897,
+      "isImpact": false
     },
     {
-      "time": 354.375,
-      "energy": 0.6023859978197841,
+      "time": 339.01027819693326,
+      "energy": 0.2943082775132873,
       "isImpact": true
     },
     {
-      "time": 354.85,
-      "energy": 0.6418077379631821,
-      "isImpact": true
+      "time": 339.47742843984406,
+      "energy": 0.2943082775132873,
+      "isImpact": false
     },
     {
-      "time": 355.3,
-      "energy": 0.6185681312176673,
-      "isImpact": true
+      "time": 339.942261148523,
+      "energy": 0.2943082775132873,
+      "isImpact": false
     },
     {
-      "time": 355.77500000000003,
-      "energy": 0.6191223531177764,
-      "isImpact": true
+      "time": 340.3945995508523,
+      "energy": 0.2943082775132873,
+      "isImpact": false
     },
     {
-      "time": 356.225,
-      "energy": 0.6016486771794212,
+      "time": 340.86082154534813,
+      "energy": 0.2854054044362671,
       "isImpact": true
     },
     {
-      "time": 356.70000000000005,
-      "energy": 0.6275793372029939,
-      "isImpact": true
+      "time": 341.3225299629353,
+      "energy": 0.2854054044362671,
+      "isImpact": false
     },
     {
-      "time": 357.15000000000003,
-      "energy": 0.6157069857487336,
-      "isImpact": true
+      "time": 341.7799830839412,
+      "energy": 0.2854054044362671,
+      "isImpact": false
     },
     {
-      "time": 357.625,
-      "energy": 0.5906603473185421,
-      "isImpact": true
+      "time": 342.2449191424529,
+      "energy": 0.2854054044362671,
+      "isImpact": false
     },
     {
-      "time": 358.07500000000005,
-      "energy": 0.6298252094621436,
+      "time": 342.7105640348297,
+      "energy": 0.3546684559941599,
       "isImpact": true
     },
     {
-      "time": 358.52500000000003,
-      "energy": 0.6021226352945804,
-      "isImpact": true
+      "time": 343.1719267411123,
+      "energy": 0.3546684559941599,
+      "isImpact": false
     },
     {
-      "time": 359,
-      "energy": 0.6160939050341577,
-      "isImpact": true
+      "time": 343.63515379342203,
+      "energy": 0.3546684559941599,
+      "isImpact": false
     },
     {
-      "time": 359.45000000000005,
-      "energy": 0.6142846177272016,
-      "isImpact": true
+      "time": 344.0928784232524,
+      "energy": 0.3546684559941599,
+      "isImpact": false
     },
     {
-      "time": 359.925,
-      "energy": 0.6092196121188265,
+      "time": 344.5565118062475,
+      "energy": 0.35118887736124055,
       "isImpact": true
     },
     {
-      "time": 360.375,
-      "energy": 0.6163886269196744,
-      "isImpact": true
+      "time": 345.0189397113237,
+      "energy": 0.35118887736124055,
+      "isImpact": false
     },
     {
-      "time": 360.85,
-      "energy": 0.6390763920589579,
-      "isImpact": true
+      "time": 345.47271689595436,
+      "energy": 0.35118887736124055,
+      "isImpact": false
     },
     {
-      "time": 361.3,
-      "energy": 0.6292295740175791,
-      "isImpact": true
+      "time": 345.93199522491005,
+      "energy": 0.35118887736124055,
+      "isImpact": false
     },
     {
-      "time": 361.77500000000003,
-      "energy": 0.6367669498111302,
+      "time": 346.39976652266614,
+      "energy": 0.33168080345402257,
       "isImpact": true
     },
     {
-      "time": 362.225,
-      "energy": 0.6174774466919164,
-      "isImpact": true
+      "time": 346.86143431362746,
+      "energy": 0.33168080345402257,
+      "isImpact": false
     },
     {
-      "time": 362.70000000000005,
-      "energy": 0.6242164537609891,
-      "isImpact": true
+      "time": 347.31820210540906,
+      "energy": 0.33168080345402257,
+      "isImpact": false
     },
     {
-      "time": 363.15000000000003,
-      "energy": 0.6236934150733985,
-      "isImpact": true
+      "time": 347.77743728529236,
+      "energy": 0.33168080345402257,
+      "isImpact": false
     },
     {
-      "time": 363.625,
-      "energy": 0.6004129251291912,
+      "time": 348.24353179715246,
+      "energy": 0.34737047609959537,
       "isImpact": true
     },
     {
-      "time": 364.07500000000005,
-      "energy": 0.6572836351180228,
-      "isImpact": true
+      "time": 348.71003065858537,
+      "energy": 0.34737047609959537,
+      "isImpact": false
     },
     {
-      "time": 364.52500000000003,
-      "energy": 0.6063154545049279,
-      "isImpact": true
+      "time": 349.1678329609981,
+      "energy": 0.34737047609959537,
+      "isImpact": false
     },
     {
-      "time": 365,
-      "energy": 0.6495600152912521,
-      "isImpact": true
+      "time": 349.63247204777423,
+      "energy": 0.34737047609959537,
+      "isImpact": false
     },
     {
-      "time": 365.45000000000005,
-      "energy": 0.6054083599422381,
+      "time": 350.0943238064047,
+      "energy": 0.3429763863243886,
       "isImpact": true
     },
     {
-      "time": 365.925,
-      "energy": 0.6000647012508111,
-      "isImpact": true
+      "time": 350.54905725009377,
+      "energy": 0.3429763863243886,
+      "isImpact": false
     },
     {
-      "time": 366.375,
-      "energy": 0.6117518158499942,
-      "isImpact": true
+      "time": 351.01421576704854,
+      "energy": 0.3429763863243886,
+      "isImpact": false
     },
     {
-      "time": 366.85,
-      "energy": 0.61620150630983,
-      "isImpact": true
+      "time": 351.4762250941438,
+      "energy": 0.3429763863243886,
+      "isImpact": false
     },
     {
-      "time": 367.3,
-      "energy": 0.623348169844313,
+      "time": 351.93599738629956,
+      "energy": 0.3342007022267785,
       "isImpact": true
     },
     {
-      "time": 367.77500000000003,
-      "energy": 0.6337634022974785,
-      "isImpact": true
+      "time": 352.40373179245853,
+      "energy": 0.3342007022267785,
+      "isImpact": false
     },
     {
-      "time": 368.225,
-      "energy": 0.6047763699434858,
-      "isImpact": true
+      "time": 352.8606332158421,
+      "energy": 0.3342007022267785,
+      "isImpact": false
     },
     {
-      "time": 368.70000000000005,
-      "energy": 0.6440270112552283,
-      "isImpact": true
+      "time": 353.31693965396096,
+      "energy": 0.3342007022267785,
+      "isImpact": false
     },
     {
-      "time": 369.15000000000003,
-      "energy": 0.6115486905784571,
+      "time": 353.7857885714515,
+      "energy": 0.33747585341700886,
       "isImpact": true
     },
     {
-      "time": 369.625,
-      "energy": 0.6028969331525034,
-      "isImpact": true
+      "time": 354.2447154226843,
+      "energy": 0.33747585341700886,
+      "isImpact": false
     },
     {
-      "time": 370.07500000000005,
-      "energy": 0.6200104140409692,
-      "isImpact": true
+      "time": 354.70890070437173,
+      "energy": 0.33747585341700886,
+      "isImpact": false
     },
     {
-      "time": 370.3,
-      "energy": 0.4494139229533017,
-      "isImpact": true
+      "time": 355.17291185170603,
+      "energy": 0.33747585341700886,
+      "isImpact": false
     },
     {
-      "time": 371,
-      "energy": 0.6214901788696092,
+      "time": 355.63474942823234,
+      "energy": 0.3567733880389539,
       "isImpact": true
     },
     {
-      "time": 371.20000000000005,
-      "energy": 0.41927056466657403,
-      "isImpact": true
+      "time": 356.0847972903988,
+      "energy": 0.3567733880389539,
+      "isImpact": false
     },
     {
-      "time": 371.45000000000005,
-      "energy": 0.5903747640674063,
-      "isImpact": true
+      "time": 356.54690484643686,
+      "energy": 0.3567733880389539,
+      "isImpact": false
     },
     {
-      "time": 371.925,
-      "energy": 0.6035130030920222,
-      "isImpact": true
+      "time": 357.01645735689567,
+      "energy": 0.3567733880389539,
+      "isImpact": false
     },
     {
-      "time": 372.375,
-      "energy": 0.613814392092808,
+      "time": 357.47359986609194,
+      "energy": 0.36278798536349577,
       "isImpact": true
     },
     {
-      "time": 372.85,
-      "energy": 0.6289029910967704,
-      "isImpact": true
+      "time": 357.9374475153441,
+      "energy": 0.36278798536349577,
+      "isImpact": false
     },
     {
-      "time": 373.3,
-      "energy": 0.6158811812640654,
-      "isImpact": true
+      "time": 358.3931648820943,
+      "energy": 0.36278798536349577,
+      "isImpact": false
     },
     {
-      "time": 373.77500000000003,
-      "energy": 0.6079695224996233,
-      "isImpact": true
+      "time": 358.8613233534228,
+      "energy": 0.36278798536349577,
+      "isImpact": false
     },
     {
-      "time": 374.225,
-      "energy": 0.6106580128576912,
+      "time": 359.31679812082774,
+      "energy": 0.3588200563259512,
       "isImpact": true
     },
     {
-      "time": 374.70000000000005,
-      "energy": 0.6013769583558461,
-      "isImpact": true
+      "time": 359.7785070291803,
+      "energy": 0.3588200563259512,
+      "isImpact": false
     },
     {
-      "time": 375.15000000000003,
-      "energy": 0.6070498740665248,
-      "isImpact": true
+      "time": 360.24117832337845,
+      "energy": 0.3588200563259512,
+      "isImpact": false
     },
     {
-      "time": 375.625,
-      "energy": 0.6007830598425716,
-      "isImpact": true
+      "time": 360.7032886234327,
+      "energy": 0.3588200563259512,
+      "isImpact": false
     },
     {
-      "time": 376.07500000000005,
-      "energy": 0.6252204484326432,
+      "time": 361.16290032162425,
+      "energy": 0.3699243954399502,
       "isImpact": true
     },
     {
-      "time": 376.55,
-      "energy": 0.5992633670986766,
-      "isImpact": true
+      "time": 361.6295154911738,
+      "energy": 0.3699243954399502,
+      "isImpact": false
     },
     {
-      "time": 377,
-      "energy": 0.6346551336572471,
-      "isImpact": true
+      "time": 362.08620329014946,
+      "energy": 0.3699243954399502,
+      "isImpact": false
     },
     {
-      "time": 377.475,
-      "energy": 0.5947677734738847,
-      "isImpact": true
+      "time": 362.54749349691815,
+      "energy": 0.3699243954399502,
+      "isImpact": false
     },
     {
-      "time": 377.925,
-      "energy": 0.6199235136188689,
+      "time": 363.00855945280375,
+      "energy": 0.3584096033477617,
       "isImpact": true
     },
     {
-      "time": 378.375,
-      "energy": 0.6064381309340382,
-      "isImpact": true
+      "time": 363.48091137930135,
+      "energy": 0.3584096033477617,
+      "isImpact": false
     },
     {
-      "time": 378.85,
-      "energy": 0.6239546524496584,
-      "isImpact": true
+      "time": 363.9407365589693,
+      "energy": 0.3584096033477617,
+      "isImpact": false
     },
     {
-      "time": 379.3,
-      "energy": 0.6129387706479356,
-      "isImpact": true
+      "time": 364.402405570231,
+      "energy": 0.3584096033477617,
+      "isImpact": false
     },
     {
-      "time": 379.77500000000003,
-      "energy": 0.6032137019960261,
+      "time": 364.8637880999417,
+      "energy": 0.3698396800216174,
       "isImpact": true
     },
     {
-      "time": 380.25,
-      "energy": 0.5987614638270295,
-      "isImpact": true
+      "time": 365.3247395323901,
+      "energy": 0.3698396800216174,
+      "isImpact": false
     },
     {
-      "time": 380.70000000000005,
-      "energy": 0.5928487246684201,
-      "isImpact": true
+      "time": 365.7887534170726,
+      "energy": 0.3698396800216174,
+      "isImpact": false
     },
     {
-      "time": 381.15000000000003,
-      "energy": 0.5919590217438734,
-      "isImpact": true
+      "time": 366.24733154318085,
+      "energy": 0.3698396800216174,
+      "isImpact": false
     },
     {
-      "time": 381.625,
-      "energy": 0.6122047308589955,
+      "time": 366.7097581141158,
+      "energy": 0.37926646746371456,
       "isImpact": true
     },
     {
-      "time": 382.07500000000005,
-      "energy": 0.622572958831138,
-      "isImpact": true
+      "time": 367.16329721004314,
+      "energy": 0.37926646746371456,
+      "isImpact": false
     },
     {
-      "time": 382.55,
-      "energy": 0.6064336803776769,
-      "isImpact": true
+      "time": 367.63503816742946,
+      "energy": 0.37926646746371456,
+      "isImpact": false
     },
     {
-      "time": 383,
-      "energy": 0.6271307787448646,
-      "isImpact": true
+      "time": 368.0960523200269,
+      "energy": 0.37926646746371456,
+      "isImpact": false
     },
     {
-      "time": 383.475,
-      "energy": 0.5904346000422389,
+      "time": 368.54928540237984,
+      "energy": 0.3604686538547995,
       "isImpact": true
     },
     {
-      "time": 383.925,
-      "energy": 0.6084324581539282,
-      "isImpact": true
+      "time": 369.01574200092733,
+      "energy": 0.3604686538547995,
+      "isImpact": false
     },
     {
-      "time": 384.375,
-      "energy": 0.6109881888363123,
-      "isImpact": true
+      "time": 369.4703332526649,
+      "energy": 0.3604686538547995,
+      "isImpact": false
     },
     {
-      "time": 384.85,
-      "energy": 0.6353039881560724,
-      "isImpact": true
+      "time": 369.9405246579548,
+      "energy": 0.3604686538547995,
+      "isImpact": false
     },
     {
-      "time": 385.3,
-      "energy": 0.6083905213353974,
+      "time": 370.3950727862296,
+      "energy": 0.2877710270587197,
       "isImpact": true
     },
     {
-      "time": 385.77500000000003,
-      "energy": 0.6009113595898777,
-      "isImpact": true
+      "time": 370.86046408715083,
+      "energy": 0.2877710270587197,
+      "isImpact": false
     },
     {
-      "time": 386.225,
-      "energy": 0.6093960255169069,
-      "isImpact": true
+      "time": 371.32293382346046,
+      "energy": 0.2877710270587197,
+      "isImpact": false
     },
     {
-      "time": 386.70000000000005,
-      "energy": 0.6025386245112976,
-      "isImpact": true
+      "time": 371.78608331149746,
+      "energy": 0.2877710270587197,
+      "isImpact": false
     },
     {
-      "time": 387.15000000000003,
-      "energy": 0.609155032492013,
+      "time": 372.2501067851134,
+      "energy": 0.3406846254550695,
       "isImpact": true
     },
     {
-      "time": 387.625,
-      "energy": 0.6043254613214988,
-      "isImpact": true
+      "time": 372.7057417583909,
+      "energy": 0.3406846254550695,
+      "isImpact": false
     },
     {
-      "time": 388.07500000000005,
-      "energy": 0.6266441540295882,
-      "isImpact": true
+      "time": 373.1694457612601,
+      "energy": 0.3406846254550695,
+      "isImpact": false
     },
     {
-      "time": 388.52500000000003,
-      "energy": 0.5992433023533256,
-      "isImpact": true
+      "time": 373.62721856545124,
+      "energy": 0.3406846254550695,
+      "isImpact": false
     },
     {
-      "time": 389,
-      "energy": 0.6227290893591274,
+      "time": 374.08531981610787,
+      "energy": 0.337031257384458,
       "isImpact": true
     },
     {
-      "time": 389.45000000000005,
-      "energy": 0.5959132600501297,
-      "isImpact": true
+      "time": 374.54705847420956,
+      "energy": 0.337031257384458,
+      "isImpact": false
     },
     {
-      "time": 389.925,
-      "energy": 0.6011793640592774,
-      "isImpact": true
+      "time": 375.0174126753279,
+      "energy": 0.337031257384458,
+      "isImpact": false
     },
     {
-      "time": 390.375,
-      "energy": 0.5902998165836325,
-      "isImpact": true
+      "time": 375.48126058752683,
+      "energy": 0.337031257384458,
+      "isImpact": false
     },
     {
-      "time": 390.85,
-      "energy": 0.6319872267374906,
+      "time": 375.9324959529883,
+      "energy": 0.34101639381254994,
       "isImpact": true
     },
     {
-      "time": 391.3,
-      "energy": 0.604632547649142,
-      "isImpact": true
+      "time": 376.3959147761609,
+      "energy": 0.34101639381254994,
+      "isImpact": false
     },
     {
-      "time": 391.77500000000003,
-      "energy": 0.5934150311435259,
-      "isImpact": true
+      "time": 376.85488689570934,
+      "energy": 0.34101639381254994,
+      "isImpact": false
     },
     {
-      "time": 392.225,
-      "energy": 0.6155594758371429,
-      "isImpact": true
+      "time": 377.3172762390377,
+      "energy": 0.34101639381254994,
+      "isImpact": false
     },
     {
-      "time": 392.70000000000005,
-      "energy": 0.6081471534919245,
+      "time": 377.7847861975177,
+      "energy": 0.3484743387906661,
       "isImpact": true
     },
     {
-      "time": 393.15000000000003,
-      "energy": 0.6010485357382104,
-      "isImpact": true
+      "time": 378.2401401576837,
+      "energy": 0.3484743387906661,
+      "isImpact": false
     },
     {
-      "time": 393.625,
-      "energy": 0.6111752634270529,
-      "isImpact": true
+      "time": 378.7056747063797,
+      "energy": 0.3484743387906661,
+      "isImpact": false
     },
     {
-      "time": 394.07500000000005,
-      "energy": 0.6058072875886463,
-      "isImpact": true
+      "time": 379.16854842546525,
+      "energy": 0.3484743387906661,
+      "isImpact": false
     },
     {
-      "time": 394.55,
-      "energy": 0.6164654473988889,
+      "time": 379.6266636501161,
+      "energy": 0.3334899194745856,
       "isImpact": true
     },
     {
-      "time": 395,
-      "energy": 0.6245305424672148,
-      "isImpact": true
+      "time": 380.0966806167048,
+      "energy": 0.3334899194745856,
+      "isImpact": false
     },
     {
-      "time": 395.45000000000005,
-      "energy": 0.6004896609332002,
-      "isImpact": true
+      "time": 380.5572622528187,
+      "energy": 0.3334899194745856,
+      "isImpact": false
     },
     {
-      "time": 395.925,
-      "energy": 0.6220412484520278,
-      "isImpact": true
+      "time": 381.0174940072935,
+      "energy": 0.3334899194745856,
+      "isImpact": false
     },
     {
-      "time": 396.375,
-      "energy": 0.613972828970212,
+      "time": 381.4795576463555,
+      "energy": 0.3507989058745849,
       "isImpact": true
     },
     {
-      "time": 396.85,
-      "energy": 0.6277048926466589,
-      "isImpact": true
+      "time": 381.93371727808744,
+      "energy": 0.3507989058745849,
+      "isImpact": false
     },
     {
-      "time": 397.3,
-      "energy": 0.6227005857129727,
-      "isImpact": true
+      "time": 382.39509855719047,
+      "energy": 0.3507989058745849,
+      "isImpact": false
     },
     {
-      "time": 397.77500000000003,
-      "energy": 0.6163226960108189,
-      "isImpact": true
+      "time": 382.8645540950352,
+      "energy": 0.3507989058745849,
+      "isImpact": false
     },
     {
-      "time": 398.225,
-      "energy": 0.620153154289989,
+      "time": 383.31941748269315,
+      "energy": 0.35506463316524534,
       "isImpact": true
     },
     {
-      "time": 398.70000000000005,
-      "energy": 0.5925107497404207,
-      "isImpact": true
+      "time": 383.77818636216637,
+      "energy": 0.35506463316524534,
+      "isImpact": false
     },
     {
-      "time": 399.15000000000003,
-      "energy": 0.5990065188759948,
-      "isImpact": true
+      "time": 384.2505698832096,
+      "energy": 0.35506463316524534,
+      "isImpact": false
     },
     {
-      "time": 399.375,
-      "energy": 0.45888553086228495,
-      "isImpact": true
+      "time": 384.7067684287878,
+      "energy": 0.35506463316524534,
+      "isImpact": false
     },
     {
-      "time": 400.3,
-      "energy": 0.2657774099236133,
+      "time": 385.1720198878422,
+      "energy": 0.3365787630601606,
       "isImpact": true
     },
     {
-      "time": 400.57500000000005,
-      "energy": 0.39377795486091616,
-      "isImpact": true
+      "time": 385.63500301953337,
+      "energy": 0.3365787630601606,
+      "isImpact": false
     },
     {
-      "time": 401.52500000000003,
-      "energy": 0.10579649738774227,
-      "isImpact": true
+      "time": 386.09495424608815,
+      "energy": 0.3365787630601606,
+      "isImpact": false
     },
     {
-      "time": 401.95000000000005,
-      "energy": 0.08758454407831322,
-      "isImpact": true
+      "time": 386.54962356949477,
+      "energy": 0.3365787630601606,
+      "isImpact": false
     },
     {
-      "time": 433.77500000000003,
-      "energy": 0.6144123374502153,
+      "time": 387.00839863221563,
+      "energy": 0.3268507232745877,
       "isImpact": true
     },
     {
-      "time": 434.225,
-      "energy": 0.6188617249484691,
-      "isImpact": true
+      "time": 387.4722078691231,
+      "energy": 0.3268507232745877,
+      "isImpact": false
     },
     {
-      "time": 434.70000000000005,
-      "energy": 0.6193729376644516,
-      "isImpact": true
+      "time": 387.93869913491295,
+      "energy": 0.3268507232745877,
+      "isImpact": false
     },
     {
-      "time": 435.15000000000003,
-      "energy": 0.6109919262394101,
-      "isImpact": true
+      "time": 388.3965511906046,
+      "energy": 0.3268507232745877,
+      "isImpact": false
     },
     {
-      "time": 435.625,
-      "energy": 0.5931349281074888,
+      "time": 388.8598983697468,
+      "energy": 0.3263482897588853,
       "isImpact": true
     },
     {
-      "time": 436.07500000000005,
-      "energy": 0.6357196531937656,
-      "isImpact": true
+      "time": 389.3245245546847,
+      "energy": 0.3263482897588853,
+      "isImpact": false
     },
     {
-      "time": 436.52500000000003,
-      "energy": 0.6237921227791787,
-      "isImpact": true
+      "time": 389.7873722968477,
+      "energy": 0.3263482897588853,
+      "isImpact": false
     },
     {
-      "time": 437,
-      "energy": 0.6246168067396415,
-      "isImpact": true
+      "time": 390.2453772055817,
+      "energy": 0.3263482897588853,
+      "isImpact": false
     },
     {
-      "time": 437.45000000000005,
-      "energy": 0.6070086453605166,
+      "time": 390.70948778625933,
+      "energy": 0.33993913487729516,
       "isImpact": true
     },
     {
-      "time": 437.925,
-      "energy": 0.5976424226305466,
-      "isImpact": true
+      "time": 391.1697393945409,
+      "energy": 0.33993913487729516,
+      "isImpact": false
     },
     {
-      "time": 438.375,
-      "energy": 0.610117421966149,
-      "isImpact": true
+      "time": 391.63337068511254,
+      "energy": 0.33993913487729516,
+      "isImpact": false
     },
     {
-      "time": 438.85,
-      "energy": 0.6314409855673727,
-      "isImpact": true
+      "time": 392.0936352199998,
+      "energy": 0.33993913487729516,
+      "isImpact": false
     },
     {
-      "time": 439.3,
-      "energy": 0.6252918973189899,
+      "time": 392.5560617794267,
+      "energy": 0.35739735491704727,
       "isImpact": true
     },
     {
-      "time": 439.77500000000003,
-      "energy": 0.6203491712275672,
-      "isImpact": true
+      "time": 393.01728626112623,
+      "energy": 0.35739735491704727,
+      "isImpact": false
     },
     {
-      "time": 440.225,
-      "energy": 0.6236403167389444,
-      "isImpact": true
+      "time": 393.4721500984153,
+      "energy": 0.35739735491704727,
+      "isImpact": false
     },
     {
-      "time": 440.70000000000005,
-      "energy": 0.6167192956722181,
-      "isImpact": true
+      "time": 393.9352133253967,
+      "energy": 0.35739735491704727,
+      "isImpact": false
     },
     {
-      "time": 441.15000000000003,
-      "energy": 0.6112137645692223,
+      "time": 394.3982021414814,
+      "energy": 0.3689035314029795,
       "isImpact": true
     },
     {
-      "time": 441.625,
-      "energy": 0.5945804098434813,
-      "isImpact": true
+      "time": 394.864754041889,
+      "energy": 0.3689035314029795,
+      "isImpact": false
     },
     {
-      "time": 442.07500000000005,
-      "energy": 0.6375465844190329,
-      "isImpact": true
+      "time": 395.3255723499452,
+      "energy": 0.3689035314029795,
+      "isImpact": false
     },
     {
-      "time": 442.55,
-      "energy": 0.6018454946168686,
-      "isImpact": true
+      "time": 395.7795076091531,
+      "energy": 0.3689035314029795,
+      "isImpact": false
     },
     {
-      "time": 443,
-      "energy": 0.6303061839194746,
+      "time": 396.23964376460884,
+      "energy": 0.3527693608109867,
       "isImpact": true
     },
     {
-      "time": 443.475,
-      "energy": 0.609435514317274,
-      "isImpact": true
+      "time": 396.7027180026315,
+      "energy": 0.3527693608109867,
+      "isImpact": false
     },
     {
-      "time": 443.925,
-      "energy": 0.6134490020208995,
-      "isImpact": true
+      "time": 397.1643100576532,
+      "energy": 0.3527693608109867,
+      "isImpact": false
     },
     {
-      "time": 444.375,
-      "energy": 0.6174639032821718,
-      "isImpact": true
+      "time": 397.6279214924252,
+      "energy": 0.3527693608109867,
+      "isImpact": false
     },
     {
-      "time": 444.85,
-      "energy": 0.6466716119843113,
+      "time": 398.09027908071437,
+      "energy": 0.2797193553474763,
       "isImpact": true
     },
     {
-      "time": 445.3,
-      "energy": 0.6320264329468768,
-      "isImpact": true
+      "time": 398.5495575071116,
+      "energy": 0.2797193553474763,
+      "isImpact": false
     },
     {
-      "time": 445.77500000000003,
-      "energy": 0.6231603034735136,
-      "isImpact": true
+      "time": 399.00788178762565,
+      "energy": 0.2797193553474763,
+      "isImpact": false
     },
     {
-      "time": 446.225,
-      "energy": 0.6221791761387658,
-      "isImpact": true
+      "time": 399.4729426056062,
+      "energy": 0.2797193553474763,
+      "isImpact": false
     },
     {
-      "time": 446.70000000000005,
-      "energy": 0.6024343474559184,
+      "time": 399.9328268847121,
+      "energy": 0.1137642414366914,
       "isImpact": true
     },
     {
-      "time": 447.15000000000003,
-      "energy": 0.6134692054552341,
+      "time": 401.78021540477414,
+      "energy": 0.032715808276417284,
       "isImpact": true
     },
     {
-      "time": 447.625,
-      "energy": 0.5945278695790245,
+      "time": 403.63100413947717,
+      "energy": 0.023205129502934557,
       "isImpact": true
     },
     {
-      "time": 448.07500000000005,
-      "energy": 0.6328271705866192,
+      "time": 405.47798411846094,
+      "energy": 0.024687696615802123,
       "isImpact": true
     },
     {
-      "time": 448.52500000000003,
-      "energy": 0.6307622782602677,
+      "time": 407.3194224434779,
+      "energy": 0.023760515281925996,
       "isImpact": true
     },
     {
-      "time": 449,
-      "energy": 0.6326370148272366,
+      "time": 409.1678607107694,
+      "energy": 0.019801816940014955,
       "isImpact": true
     },
     {
-      "time": 449.20000000000005,
-      "energy": 0.5379634183295311,
+      "time": 411.01335061110115,
+      "energy": 0.021168230833493024,
       "isImpact": true
     },
     {
-      "time": 449.45000000000005,
-      "energy": 0.6172645519093258,
+      "time": 412.85783328670493,
+      "energy": 0.021757672522231573,
       "isImpact": true
     },
     {
-      "time": 449.925,
-      "energy": 0.6167763797600355,
+      "time": 414.70902681871974,
+      "energy": 0.023670211259327827,
       "isImpact": true
     },
     {
-      "time": 450.375,
-      "energy": 0.6246963920576084,
+      "time": 416.54659393601656,
+      "energy": 0.026125362849761632,
       "isImpact": true
     },
     {
-      "time": 450.85,
-      "energy": 0.6313735616641478,
-      "isImpact": true
+      "time": 417.4784870779796,
+      "energy": 0.026125362849761632,
+      "isImpact": false
     },
     {
-      "time": 451.3,
-      "energy": 0.6210099569754017,
+      "time": 418.3978291534102,
+      "energy": 0.023057652889187697,
       "isImpact": true
     },
     {
-      "time": 451.77500000000003,
-      "energy": 0.6034517087699877,
-      "isImpact": true
+      "time": 419.3272623826277,
+      "energy": 0.023057652889187697,
+      "isImpact": false
     },
     {
-      "time": 452.225,
-      "energy": 0.6132270789891682,
+      "time": 420.2393364389771,
+      "energy": 0.025328764964621494,
       "isImpact": true
     },
     {
-      "time": 452.70000000000005,
-      "energy": 0.6036427260057364,
-      "isImpact": true
+      "time": 421.1624587943658,
+      "energy": 0.025328764964621494,
+      "isImpact": false
     },
     {
-      "time": 453.15000000000003,
-      "energy": 0.6142198284224504,
+      "time": 422.09155862213845,
+      "energy": 0.02551250858873739,
       "isImpact": true
     },
     {
-      "time": 453.625,
-      "energy": 0.6072944105057999,
-      "isImpact": true
+      "time": 423.01384814369277,
+      "energy": 0.02551250858873739,
+      "isImpact": false
     },
     {
-      "time": 454.07500000000005,
-      "energy": 0.6396492215916677,
+      "time": 423.9427438595133,
+      "energy": 0.023280012377866657,
       "isImpact": true
     },
     {
-      "time": 454.55,
-      "energy": 0.6024685584674125,
-      "isImpact": true
+      "time": 424.8587034789445,
+      "energy": 0.023280012377866657,
+      "isImpact": false
     },
     {
-      "time": 455,
-      "energy": 0.634458563719108,
+      "time": 425.77735636004724,
+      "energy": 0.029312662445426897,
       "isImpact": true
     },
     {
-      "time": 455.45000000000005,
-      "energy": 0.6008638250211097,
-      "isImpact": true
+      "time": 426.70357652852556,
+      "energy": 0.029312662445426897,
+      "isImpact": false
     },
     {
-      "time": 455.925,
-      "energy": 0.5876688865521907,
+      "time": 427.63306547401453,
+      "energy": 0.024731826154502538,
       "isImpact": true
     },
     {
-      "time": 456.375,
-      "energy": 0.5989782320269563,
-      "isImpact": true
+      "time": 428.5550597649223,
+      "energy": 0.024731826154502538,
+      "isImpact": false
     },
     {
-      "time": 456.85,
-      "energy": 0.6410685388453279,
+      "time": 433.1658674092971,
+      "energy": 0.2594437413311792,
       "isImpact": true
     },
     {
-      "time": 457.3,
-      "energy": 0.6261676313472757,
-      "isImpact": true
+      "time": 433.62926640306273,
+      "energy": 0.2594437413311792,
+      "isImpact": false
     },
     {
-      "time": 457.77500000000003,
-      "energy": 0.6340971006100043,
-      "isImpact": true
+      "time": 434.0954667876435,
+      "energy": 0.2594437413311792,
+      "isImpact": false
     },
     {
-      "time": 458.225,
-      "energy": 0.6266347919547691,
-      "isImpact": true
+      "time": 434.55311763902023,
+      "energy": 0.2594437413311792,
+      "isImpact": false
     },
     {
-      "time": 458.70000000000005,
-      "energy": 0.6240129412474879,
+      "time": 435.01853860077443,
+      "energy": 0.340395029763855,
       "isImpact": true
     },
     {
-      "time": 459.15000000000003,
-      "energy": 0.6154441819158118,
-      "isImpact": true
+      "time": 435.4753647953576,
+      "energy": 0.340395029763855,
+      "isImpact": false
     },
     {
-      "time": 459.625,
-      "energy": 0.602581084444588,
-      "isImpact": true
+      "time": 435.93832922678,
+      "energy": 0.340395029763855,
+      "isImpact": false
     },
     {
-      "time": 460.07500000000005,
-      "energy": 0.6317484746246439,
-      "isImpact": true
+      "time": 436.4007618015475,
+      "energy": 0.340395029763855,
+      "isImpact": false
     },
     {
-      "time": 460.52500000000003,
-      "energy": 0.6255909871066617,
+      "time": 436.8639730185072,
+      "energy": 0.332300368607639,
       "isImpact": true
     },
     {
-      "time": 461,
-      "energy": 0.6260382544220021,
-      "isImpact": true
+      "time": 437.31788917817585,
+      "energy": 0.332300368607639,
+      "isImpact": false
     },
     {
-      "time": 461.45000000000005,
-      "energy": 0.6158788758903908,
-      "isImpact": true
+      "time": 437.7774855167668,
+      "energy": 0.332300368607639,
+      "isImpact": false
     },
     {
-      "time": 461.675,
-      "energy": 0.5072219123690427,
-      "isImpact": true
+      "time": 438.2500254715709,
+      "energy": 0.332300368607639,
+      "isImpact": false
     },
     {
-      "time": 461.925,
-      "energy": 0.6019265904490709,
+      "time": 438.70860020841127,
+      "energy": 0.3483183046942781,
       "isImpact": true
     },
     {
-      "time": 463.3,
-      "energy": 0.6491666213840247,
-      "isImpact": true
+      "time": 439.1649356210887,
+      "energy": 0.3483183046942781,
+      "isImpact": false
     },
     {
-      "time": 463.77500000000003,
-      "energy": 0.6019649553990908,
-      "isImpact": true
+      "time": 439.63182777576606,
+      "energy": 0.3483183046942781,
+      "isImpact": false
     },
     {
-      "time": 464.225,
-      "energy": 0.6207492583049167,
-      "isImpact": true
+      "time": 440.0849600701986,
+      "energy": 0.3483183046942781,
+      "isImpact": false
     },
     {
-      "time": 464.70000000000005,
-      "energy": 0.5879435453025605,
+      "time": 440.55216090582644,
+      "energy": 0.34198210125043826,
       "isImpact": true
     },
     {
-      "time": 465.15000000000003,
-      "energy": 0.6109531739783869,
-      "isImpact": true
+      "time": 441.00880649569916,
+      "energy": 0.34198210125043826,
+      "isImpact": false
     },
     {
-      "time": 465.625,
-      "energy": 0.5951654290608962,
-      "isImpact": true
+      "time": 441.4733514715211,
+      "energy": 0.34198210125043826,
+      "isImpact": false
     },
     {
-      "time": 466.07500000000005,
-      "energy": 0.6381521081663764,
-      "isImpact": true
+      "time": 441.9411368981714,
+      "energy": 0.34198210125043826,
+      "isImpact": false
     },
     {
-      "time": 466.55,
-      "energy": 0.5973011882012437,
+      "time": 442.3935361738285,
+      "energy": 0.3467465258244236,
       "isImpact": true
     },
     {
-      "time": 467,
-      "energy": 0.6271969760149283,
-      "isImpact": true
+      "time": 442.8642167953246,
+      "energy": 0.3467465258244236,
+      "isImpact": false
     },
     {
-      "time": 467.475,
-      "energy": 0.6089518903259575,
-      "isImpact": true
+      "time": 443.32302954032997,
+      "energy": 0.3467465258244236,
+      "isImpact": false
     },
     {
-      "time": 467.925,
-      "energy": 0.6048617716225603,
-      "isImpact": true
+      "time": 443.7828855564627,
+      "energy": 0.3467465258244236,
+      "isImpact": false
     },
     {
-      "time": 468.375,
-      "energy": 0.6054042542346799,
+      "time": 444.23889228991953,
+      "energy": 0.3585139364437483,
       "isImpact": true
     },
     {
-      "time": 468.85,
-      "energy": 0.6412349437693028,
-      "isImpact": true
+      "time": 444.7037385135709,
+      "energy": 0.3585139364437483,
+      "isImpact": false
     },
     {
-      "time": 469.3,
-      "energy": 0.634525508166512,
-      "isImpact": true
+      "time": 445.1649522273318,
+      "energy": 0.3585139364437483,
+      "isImpact": false
     },
     {
-      "time": 469.77500000000003,
-      "energy": 0.6287414044438087,
-      "isImpact": true
+      "time": 445.6283584296925,
+      "energy": 0.3585139364437483,
+      "isImpact": false
     },
     {
-      "time": 470.225,
-      "energy": 0.6257612765953424,
+      "time": 446.0926186796879,
+      "energy": 0.3398865031502127,
       "isImpact": true
     },
     {
-      "time": 470.70000000000005,
-      "energy": 0.6094400823903151,
-      "isImpact": true
+      "time": 446.5552836606646,
+      "energy": 0.3398865031502127,
+      "isImpact": false
     },
     {
-      "time": 471.15000000000003,
-      "energy": 0.6153999581394297,
-      "isImpact": true
+      "time": 447.01633014816974,
+      "energy": 0.3398865031502127,
+      "isImpact": false
     },
     {
-      "time": 471.625,
-      "energy": 0.5976848244587705,
-      "isImpact": true
+      "time": 447.48098037574357,
+      "energy": 0.3398865031502127,
+      "isImpact": false
     },
     {
-      "time": 472.07500000000005,
-      "energy": 0.6257415095904274,
+      "time": 447.9413399418781,
+      "energy": 0.34860546928138664,
       "isImpact": true
     },
     {
-      "time": 472.52500000000003,
-      "energy": 0.6261242250123102,
-      "isImpact": true
+      "time": 448.39435231880674,
+      "energy": 0.34860546928138664,
+      "isImpact": false
     },
     {
-      "time": 473,
-      "energy": 0.6265150321276926,
-      "isImpact": true
+      "time": 448.8634684860686,
+      "energy": 0.34860546928138664,
+      "isImpact": false
     },
     {
-      "time": 473.45000000000005,
-      "energy": 0.6026239678840198,
-      "isImpact": true
+      "time": 449.32124688999676,
+      "energy": 0.34860546928138664,
+      "isImpact": false
     },
     {
-      "time": 473.925,
-      "energy": 0.5959255649792206,
+      "time": 449.78221161986215,
+      "energy": 0.3326142937047849,
       "isImpact": true
     },
     {
-      "time": 474.375,
-      "energy": 0.6087446424379923,
-      "isImpact": true
+      "time": 450.2448956467687,
+      "energy": 0.3326142937047849,
+      "isImpact": false
     },
     {
-      "time": 474.85,
-      "energy": 0.6339301984778971,
-      "isImpact": true
+      "time": 450.71076027796454,
+      "energy": 0.3326142937047849,
+      "isImpact": false
     },
     {
-      "time": 475.3,
-      "energy": 0.6319378366453002,
-      "isImpact": true
+      "time": 451.17296682046486,
+      "energy": 0.3326142937047849,
+      "isImpact": false
     },
     {
-      "time": 475.77500000000003,
-      "energy": 0.6233496568658792,
+      "time": 451.62759489468846,
+      "energy": 0.3392133907780748,
       "isImpact": true
     },
     {
-      "time": 476.225,
-      "energy": 0.6395946911556527,
-      "isImpact": true
+      "time": 452.09191745916985,
+      "energy": 0.3392133907780748,
+      "isImpact": false
     },
     {
-      "time": 476.70000000000005,
-      "energy": 0.6195031136590686,
-      "isImpact": true
+      "time": 452.55032316838714,
+      "energy": 0.3392133907780748,
+      "isImpact": false
     },
     {
-      "time": 477.15000000000003,
-      "energy": 0.6170364879237364,
-      "isImpact": true
+      "time": 453.01775207964073,
+      "energy": 0.3392133907780748,
+      "isImpact": false
     },
     {
-      "time": 477.625,
-      "energy": 0.6017135834394995,
+      "time": 453.4789474634457,
+      "energy": 0.3517239503334237,
       "isImpact": true
     },
     {
-      "time": 478.07500000000005,
-      "energy": 0.6352443443128692,
-      "isImpact": true
+      "time": 453.94120921061585,
+      "energy": 0.3517239503334237,
+      "isImpact": false
     },
     {
-      "time": 478.52500000000003,
-      "energy": 0.6108254643861344,
-      "isImpact": true
+      "time": 454.39409589771503,
+      "energy": 0.3517239503334237,
+      "isImpact": false
     },
     {
-      "time": 479,
-      "energy": 0.633940548019575,
-      "isImpact": true
+      "time": 454.8587307860133,
+      "energy": 0.3517239503334237,
+      "isImpact": false
     },
     {
-      "time": 479.20000000000005,
-      "energy": 0.5508716205481292,
+      "time": 455.3246875301404,
+      "energy": 0.34843204971006364,
       "isImpact": true
     },
     {
-      "time": 479.45000000000005,
-      "energy": 0.6103390825288619,
-      "isImpact": true
+      "time": 455.7837212924153,
+      "energy": 0.34843204971006364,
+      "isImpact": false
     },
     {
-      "time": 479.925,
-      "energy": 0.6156508502228819,
-      "isImpact": true
+      "time": 456.2472530073512,
+      "energy": 0.34843204971006364,
+      "isImpact": false
     },
     {
-      "time": 480.375,
-      "energy": 0.6076856468958813,
-      "isImpact": true
+      "time": 456.7007837806594,
+      "energy": 0.34843204971006364,
+      "isImpact": false
     },
     {
-      "time": 480.85,
-      "energy": 0.6368193003038621,
+      "time": 457.17288783472003,
+      "energy": 0.35919213780865217,
       "isImpact": true
     },
     {
-      "time": 481.3,
-      "energy": 0.6100333960829489,
-      "isImpact": true
+      "time": 457.63236065123726,
+      "energy": 0.35919213780865217,
+      "isImpact": false
     },
     {
-      "time": 481.77500000000003,
-      "energy": 0.6179204715977681,
-      "isImpact": true
+      "time": 458.08634084458043,
+      "energy": 0.35919213780865217,
+      "isImpact": false
     },
     {
-      "time": 482.225,
-      "energy": 0.613879952366809,
-      "isImpact": true
+      "time": 458.55286886673747,
+      "energy": 0.35919213780865217,
+      "isImpact": false
     },
     {
-      "time": 482.70000000000005,
-      "energy": 0.61719047374016,
+      "time": 459.0082039342605,
+      "energy": 0.34668495487365136,
       "isImpact": true
     },
     {
-      "time": 483.15000000000003,
-      "energy": 0.6108875676216671,
-      "isImpact": true
+      "time": 459.47777705173445,
+      "energy": 0.34668495487365136,
+      "isImpact": false
     },
     {
-      "time": 483.625,
-      "energy": 0.6179151605865545,
-      "isImpact": true
+      "time": 459.9380969361022,
+      "energy": 0.34668495487365136,
+      "isImpact": false
     },
     {
-      "time": 484.07500000000005,
-      "energy": 0.6357189885346551,
-      "isImpact": true
+      "time": 460.3990813980889,
+      "energy": 0.34668495487365136,
+      "isImpact": false
     },
     {
-      "time": 484.52500000000003,
-      "energy": 0.6150924079237357,
+      "time": 460.8617873535678,
+      "energy": 0.27947635137995747,
       "isImpact": true
     },
     {
-      "time": 485,
-      "energy": 0.6335023681695309,
-      "isImpact": true
+      "time": 461.327463584851,
+      "energy": 0.27947635137995747,
+      "isImpact": false
     },
     {
-      "time": 485.45000000000005,
-      "energy": 0.619138848987911,
-      "isImpact": true
+      "time": 461.7873746709538,
+      "energy": 0.27947635137995747,
+      "isImpact": false
     },
     {
-      "time": 485.925,
-      "energy": 0.6161110220625592,
-      "isImpact": true
+      "time": 462.2498822347299,
+      "energy": 0.27947635137995747,
+      "isImpact": false
     },
     {
-      "time": 486.375,
-      "energy": 0.6331851739445465,
+      "time": 462.70646220856037,
+      "energy": 0.2941382991004626,
       "isImpact": true
     },
     {
-      "time": 486.85,
-      "energy": 0.6363112363888149,
-      "isImpact": true
+      "time": 463.1682389980043,
+      "energy": 0.2941382991004626,
+      "isImpact": false
     },
     {
-      "time": 487.3,
-      "energy": 0.6277080085648623,
-      "isImpact": true
+      "time": 463.6305573202958,
+      "energy": 0.2941382991004626,
+      "isImpact": false
     },
     {
-      "time": 487.77500000000003,
-      "energy": 0.6035229418293735,
-      "isImpact": true
+      "time": 464.0965581928369,
+      "energy": 0.2941382991004626,
+      "isImpact": false
     },
     {
-      "time": 488.225,
-      "energy": 0.6148415407043217,
+      "time": 464.5539891865883,
+      "energy": 0.3319960341590222,
       "isImpact": true
     },
     {
-      "time": 488.70000000000005,
-      "energy": 0.5942283644153821,
-      "isImpact": true
+      "time": 465.0093976600773,
+      "energy": 0.3319960341590222,
+      "isImpact": false
     },
     {
-      "time": 489.15000000000003,
-      "energy": 0.6123828642875787,
-      "isImpact": true
+      "time": 465.47557715359983,
+      "energy": 0.3319960341590222,
+      "isImpact": false
     },
     {
-      "time": 489.625,
-      "energy": 0.604300126973217,
-      "isImpact": true
+      "time": 465.94100119837117,
+      "energy": 0.3319960341590222,
+      "isImpact": false
     },
     {
-      "time": 490.07500000000005,
-      "energy": 0.638203530376469,
+      "time": 466.40164476401117,
+      "energy": 0.3465533847435469,
       "isImpact": true
     },
     {
-      "time": 490.55,
-      "energy": 0.6039722380486909,
-      "isImpact": true
+      "time": 466.85963809425914,
+      "energy": 0.3465533847435469,
+      "isImpact": false
     },
     {
-      "time": 491,
-      "energy": 0.6328616553160342,
-      "isImpact": true
+      "time": 467.3241861423616,
+      "energy": 0.3465533847435469,
+      "isImpact": false
     },
     {
-      "time": 491.475,
-      "energy": 0.6024569702592135,
-      "isImpact": true
+      "time": 467.7780151631627,
+      "energy": 0.3465533847435469,
+      "isImpact": false
     },
     {
-      "time": 492.85,
-      "energy": 0.6427889911804406,
+      "time": 468.2499356536321,
+      "energy": 0.36080937603164115,
       "isImpact": true
     },
     {
-      "time": 493.3,
-      "energy": 0.6224164554105223,
-      "isImpact": true
+      "time": 468.70753148914537,
+      "energy": 0.36080937603164115,
+      "isImpact": false
     },
     {
-      "time": 493.77500000000003,
-      "energy": 0.6143825770576318,
-      "isImpact": true
+      "time": 469.1725017377208,
+      "energy": 0.36080937603164115,
+      "isImpact": false
     },
     {
-      "time": 494.225,
-      "energy": 0.6164956607018721,
-      "isImpact": true
+      "time": 469.63010287745345,
+      "energy": 0.36080937603164115,
+      "isImpact": false
     },
     {
-      "time": 494.70000000000005,
-      "energy": 0.6043225899707395,
+      "time": 470.0899431079044,
+      "energy": 0.34900257322633604,
       "isImpact": true
     },
     {
-      "time": 495.15000000000003,
-      "energy": 0.6095946459960867,
-      "isImpact": true
+      "time": 470.55571340387587,
+      "energy": 0.34900257322633604,
+      "isImpact": false
     },
     {
-      "time": 495.625,
-      "energy": 0.6018027660361349,
-      "isImpact": true
+      "time": 471.00875986981345,
+      "energy": 0.34900257322633604,
+      "isImpact": false
     },
     {
-      "time": 496.07500000000005,
-      "energy": 0.6279532037867079,
-      "isImpact": true
+      "time": 471.47804054649896,
+      "energy": 0.34900257322633604,
+      "isImpact": false
     },
     {
-      "time": 496.52500000000003,
-      "energy": 0.5984237362660891,
+      "time": 471.93810455063476,
+      "energy": 0.3337683043381368,
       "isImpact": true
     },
     {
-      "time": 497,
-      "energy": 0.6267999225070889,
-      "isImpact": true
+      "time": 472.3943871739615,
+      "energy": 0.3337683043381368,
+      "isImpact": false
     },
     {
-      "time": 497.475,
-      "energy": 0.5937902844574414,
-      "isImpact": true
+      "time": 472.8573647465872,
+      "energy": 0.3337683043381368,
+      "isImpact": false
     },
     {
-      "time": 497.925,
-      "energy": 0.6068170620122025,
-      "isImpact": true
+      "time": 473.32606405311594,
+      "energy": 0.3337683043381368,
+      "isImpact": false
     },
     {
-      "time": 498.375,
-      "energy": 0.6053518028397619,
+      "time": 473.78227812434665,
+      "energy": 0.3419358771786126,
       "isImpact": true
     },
     {
-      "time": 498.85,
-      "energy": 0.6360418552843226,
-      "isImpact": true
+      "time": 474.2393903219967,
+      "energy": 0.3419358771786126,
+      "isImpact": false
     },
     {
-      "time": 499.3,
-      "energy": 0.6163609639562118,
-      "isImpact": true
+      "time": 474.7117236366983,
+      "energy": 0.3419358771786126,
+      "isImpact": false
     },
     {
-      "time": 499.77500000000003,
-      "energy": 0.6126878775182816,
-      "isImpact": true
+      "time": 475.17321327527554,
+      "energy": 0.3419358771786126,
+      "isImpact": false
     },
     {
-      "time": 500.225,
-      "energy": 0.6147979707627204,
+      "time": 475.633517506998,
+      "energy": 0.3549296920138087,
       "isImpact": true
     },
     {
-      "time": 500.70000000000005,
-      "energy": 0.6028639227635265,
-      "isImpact": true
+      "time": 476.0957933973189,
+      "energy": 0.3549296920138087,
+      "isImpact": false
     },
     {
-      "time": 501.15000000000003,
-      "energy": 0.6021587324178528,
-      "isImpact": true
+      "time": 476.55343362567544,
+      "energy": 0.3549296920138087,
+      "isImpact": false
     },
     {
-      "time": 501.625,
-      "energy": 0.5977181177750822,
-      "isImpact": true
+      "time": 477.01734899312675,
+      "energy": 0.3549296920138087,
+      "isImpact": false
     },
     {
-      "time": 502.07500000000005,
-      "energy": 0.6240296687736611,
+      "time": 477.480698176936,
+      "energy": 0.3479359114675086,
       "isImpact": true
     },
     {
-      "time": 502.52500000000003,
-      "energy": 0.6005932236270407,
-      "isImpact": true
+      "time": 477.9367535502886,
+      "energy": 0.3479359114675086,
+      "isImpact": false
     },
     {
-      "time": 503,
-      "energy": 0.6209882501199245,
-      "isImpact": true
+      "time": 478.401643469258,
+      "energy": 0.3479359114675086,
+      "isImpact": false
     },
     {
-      "time": 503.475,
-      "energy": 0.5947947293773568,
-      "isImpact": true
+      "time": 478.8555758037779,
+      "energy": 0.3479359114675086,
+      "isImpact": false
     },
     {
-      "time": 503.925,
-      "energy": 0.6027189823593726,
+      "time": 479.31792057208673,
+      "energy": 0.3352764123963225,
       "isImpact": true
     },
     {
-      "time": 504.375,
-      "energy": 0.6057250358805188,
-      "isImpact": true
+      "time": 479.7880111044566,
+      "energy": 0.3352764123963225,
+      "isImpact": false
     },
     {
-      "time": 504.85,
-      "energy": 0.632548934114633,
-      "isImpact": true
+      "time": 480.24827476041554,
+      "energy": 0.3352764123963225,
+      "isImpact": false
     },
     {
-      "time": 505.3,
-      "energy": 0.6194127062205432,
-      "isImpact": true
+      "time": 480.70663704131806,
+      "energy": 0.3352764123963225,
+      "isImpact": false
     },
     {
-      "time": 505.77500000000003,
-      "energy": 0.6121188162983083,
+      "time": 481.1678821627175,
+      "energy": 0.34384582280615217,
       "isImpact": true
     },
     {
-      "time": 506.225,
-      "energy": 0.6138538770059583,
-      "isImpact": true
+      "time": 481.62923796963184,
+      "energy": 0.34384582280615217,
+      "isImpact": false
     },
     {
-      "time": 506.70000000000005,
-      "energy": 0.6042828468667972,
-      "isImpact": true
+      "time": 482.08660454827384,
+      "energy": 0.34384582280615217,
+      "isImpact": false
     },
     {
-      "time": 507.15000000000003,
-      "energy": 0.6083979959602648,
-      "isImpact": true
+      "time": 482.5497909349709,
+      "energy": 0.34384582280615217,
+      "isImpact": false
     },
     {
-      "time": 507.6,
-      "energy": 0.4591223787887838,
+      "time": 483.0157857078139,
+      "energy": 0.3542393001313757,
       "isImpact": true
     },
     {
-      "time": 508.07500000000005,
-      "energy": 0.41858998771179123,
-      "isImpact": true
+      "time": 483.47025865120565,
+      "energy": 0.3542393001313757,
+      "isImpact": false
     },
     {
-      "time": 508.52500000000003,
-      "energy": 0.4658763484454963,
-      "isImpact": true
+      "time": 483.93241484384214,
+      "energy": 0.3542393001313757,
+      "isImpact": false
     },
     {
-      "time": 509,
-      "energy": 0.41172512328331495,
-      "isImpact": true
+      "time": 484.3958447149374,
+      "energy": 0.3542393001313757,
+      "isImpact": false
     },
     {
-      "time": 509.45000000000005,
-      "energy": 0.4728064960233524,
+      "time": 484.86456800469114,
+      "energy": 0.34991057688849697,
       "isImpact": true
     },
     {
-      "time": 509.925,
-      "energy": 0.39892121653498147,
-      "isImpact": true
+      "time": 485.3213426880233,
+      "energy": 0.34991057688849697,
+      "isImpact": false
     },
     {
-      "time": 510.375,
-      "energy": 0.45716922865462034,
-      "isImpact": true
+      "time": 485.78467548822385,
+      "energy": 0.34991057688849697,
+      "isImpact": false
     },
     {
-      "time": 510.82500000000005,
-      "energy": 0.4144569176657135,
-      "isImpact": true
+      "time": 486.23981603690885,
+      "energy": 0.34991057688849697,
+      "isImpact": false
     },
     {
-      "time": 511.3,
-      "energy": 0.4597027229166961,
+      "time": 486.70373241513835,
+      "energy": 0.33463041163958457,
       "isImpact": true
     },
     {
-      "time": 511.75,
-      "energy": 0.42008787482636933,
-      "isImpact": true
+      "time": 487.17329834020126,
+      "energy": 0.33463041163958457,
+      "isImpact": false
     },
     {
-      "time": 512.225,
-      "energy": 0.44855078176333496,
-      "isImpact": true
+      "time": 487.62880763576953,
+      "energy": 0.33463041163958457,
+      "isImpact": false
     },
     {
-      "time": 512.6750000000001,
-      "energy": 0.44607257118650495,
-      "isImpact": true
+      "time": 488.09303714176406,
+      "energy": 0.33463041163958457,
+      "isImpact": false
     },
     {
-      "time": 513.15,
-      "energy": 0.4309772125134704,
+      "time": 488.54965273356805,
+      "energy": 0.33600336453886986,
       "isImpact": true
     },
     {
-      "time": 513.6,
-      "energy": 0.4446526455939283,
-      "isImpact": true
+      "time": 489.01758594818307,
+      "energy": 0.33600336453886986,
+      "isImpact": false
+    },
+    {
+      "time": 489.47144036657204,
+      "energy": 0.33600336453886986,
+      "isImpact": false
+    },
+    {
+      "time": 489.9310271820073,
+      "energy": 0.33600336453886986,
+      "isImpact": false
     },
     {
-      "time": 514.075,
-      "energy": 0.4187332422712175,
+      "time": 490.39706309912435,
+      "energy": 0.3008527998122211,
       "isImpact": true
+    },
+    {
+      "time": 490.8635081411759,
+      "energy": 0.3008527998122211,
+      "isImpact": false
     },
     {
-      "time": 514.525,
-      "energy": 0.4519984165682807,
+      "time": 491.3169285728954,
+      "energy": 0.3008527998122211,
+      "isImpact": false
+    },
+    {
+      "time": 492.23924479496804,
+      "energy": 0.24433180290952006,
       "isImpact": true
+    },
+    {
+      "time": 492.70060156445413,
+      "energy": 0.24433180290952006,
+      "isImpact": false
     },
     {
-      "time": 515,
-      "energy": 0.4165155657790626,
+      "time": 493.16497301645893,
+      "energy": 0.24433180290952006,
+      "isImpact": false
+    },
+    {
+      "time": 493.62849300690203,
+      "energy": 0.24433180290952006,
+      "isImpact": false
+    },
+    {
+      "time": 494.09435317788126,
+      "energy": 0.2972712001330264,
       "isImpact": true
+    },
+    {
+      "time": 494.5494813989187,
+      "energy": 0.2972712001330264,
+      "isImpact": false
+    },
+    {
+      "time": 495.0126063405604,
+      "energy": 0.2972712001330264,
+      "isImpact": false
+    },
+    {
+      "time": 495.47868506668726,
+      "energy": 0.2972712001330264,
+      "isImpact": false
     },
     {
-      "time": 515.45,
-      "energy": 0.46078227319191833,
+      "time": 495.9417357975201,
+      "energy": 0.2940583755365398,
       "isImpact": true
+    },
+    {
+      "time": 496.40337125307394,
+      "energy": 0.2940583755365398,
+      "isImpact": false
+    },
+    {
+      "time": 496.85923238959265,
+      "energy": 0.2940583755365398,
+      "isImpact": false
     },
     {
-      "time": 515.9,
-      "energy": 0.40317680094587305,
+      "time": 497.3159967637825,
+      "energy": 0.2940583755365398,
+      "isImpact": false
+    },
+    {
+      "time": 497.785482365056,
+      "energy": 0.2948858655137047,
       "isImpact": true
+    },
+    {
+      "time": 498.2505202345265,
+      "energy": 0.2948858655137047,
+      "isImpact": false
     },
     {
-      "time": 516.375,
-      "energy": 0.44782554453977563,
+      "time": 498.7089220869558,
+      "energy": 0.2948858655137047,
+      "isImpact": false
+    },
+    {
+      "time": 499.17277873773986,
+      "energy": 0.2948858655137047,
+      "isImpact": false
+    },
+    {
+      "time": 499.6345664343377,
+      "energy": 0.2961540061335656,
       "isImpact": true
+    },
+    {
+      "time": 500.08902032989613,
+      "energy": 0.2961540061335656,
+      "isImpact": false
+    },
+    {
+      "time": 500.5494101333436,
+      "energy": 0.2961540061335656,
+      "isImpact": false
+    },
+    {
+      "time": 501.0147286561867,
+      "energy": 0.2961540061335656,
+      "isImpact": false
     },
     {
-      "time": 516.825,
-      "energy": 0.4339110673490017,
+      "time": 501.48008755657185,
+      "energy": 0.29319458696920764,
       "isImpact": true
+    },
+    {
+      "time": 501.9383244557453,
+      "energy": 0.29319458696920764,
+      "isImpact": false
+    },
+    {
+      "time": 502.39910236171755,
+      "energy": 0.29319458696920764,
+      "isImpact": false
     },
     {
-      "time": 517.3000000000001,
-      "energy": 0.4486617941199814,
+      "time": 502.8646999926953,
+      "energy": 0.29319458696920764,
+      "isImpact": false
+    },
+    {
+      "time": 503.3175793776963,
+      "energy": 0.29582251673717425,
       "isImpact": true
+    },
+    {
+      "time": 503.7845769872691,
+      "energy": 0.29582251673717425,
+      "isImpact": false
     },
     {
-      "time": 517.75,
-      "energy": 0.4355989442768735,
+      "time": 504.24452092789176,
+      "energy": 0.29582251673717425,
+      "isImpact": false
+    },
+    {
+      "time": 504.7113790710525,
+      "energy": 0.29582251673717425,
+      "isImpact": false
+    },
+    {
+      "time": 505.1645308821075,
+      "energy": 0.295942967848991,
       "isImpact": true
+    },
+    {
+      "time": 505.63385862534636,
+      "energy": 0.295942967848991,
+      "isImpact": false
+    },
+    {
+      "time": 506.09381891365956,
+      "energy": 0.295942967848991,
+      "isImpact": false
+    },
+    {
+      "time": 506.55309536796744,
+      "energy": 0.295942967848991,
+      "isImpact": false
     },
     {
-      "time": 518.225,
-      "energy": 0.4270493179774237,
+      "time": 507.00880866255784,
+      "energy": 0.1364200157195495,
       "isImpact": true
+    },
+    {
+      "time": 507.93212586766,
+      "energy": 0.1364200157195495,
+      "isImpact": false
     },
     {
-      "time": 518.6750000000001,
-      "energy": 0.4030106470725671,
+      "time": 508.86216427753584,
+      "energy": 0.0810582951620795,
       "isImpact": true
+    },
+    {
+      "time": 509.78315371569073,
+      "energy": 0.0810582951620795,
+      "isImpact": false
     },
     {
-      "time": 519.125,
-      "energy": 0.2621527121698293,
+      "time": 510.7037120195257,
+      "energy": 0.08109550496867943,
       "isImpact": true
     },
     {
-      "time": 519.6,
-      "energy": 0.25047339501149724,
+      "time": 511.62875550564763,
+      "energy": 0.08109550496867943,
+      "isImpact": false
+    },
+    {
+      "time": 512.5533511210397,
+      "energy": 0.07977135858690092,
       "isImpact": true
     },
     {
-      "time": 520.0500000000001,
-      "energy": 0.18852469584445974,
+      "time": 513.4720017806129,
+      "energy": 0.07977135858690092,
+      "isImpact": false
+    },
+    {
+      "time": 514.403984985894,
+      "energy": 0.07975940710657181,
       "isImpact": true
+    },
+    {
+      "time": 515.3269438590439,
+      "energy": 0.07975940710657181,
+      "isImpact": false
     },
     {
-      "time": 520.525,
-      "energy": 0.1052521000613947,
+      "time": 516.245172177494,
+      "energy": 0.08079606237349861,
       "isImpact": true
+    },
+    {
+      "time": 517.1640806448004,
+      "energy": 0.08079606237349861,
+      "isImpact": false
     },
     {
-      "time": 520.975,
-      "energy": 0.09789096829583142,
+      "time": 518.0965042670625,
+      "energy": 0.04865184875066436,
       "isImpact": true
+    },
+    {
+      "time": 519.0182825946991,
+      "energy": 0.04865184875066436,
+      "isImpact": false
     }
   ],
   "phases": [
     {
       "startTime": 0,
-      "endTime": 12,
-      "startBpm": 60,
-      "endBpm": 60,
-      "type": "SUSTAIN",
-      "density": 1
+      "endTime": 36.24461538461539,
+      "startBpm": 32.5,
+      "endBpm": 32.5,
+      "type": "BREAK",
+      "density": 0.25
     },
     {
-      "startTime": 12,
-      "endTime": 36,
-      "startBpm": 15,
-      "endBpm": 15,
-      "type": "SUSTAIN",
-      "density": 0
-    },
-    {
-      "startTime": 36,
-      "endTime": 48,
-      "startBpm": 130,
-      "endBpm": 130,
-      "type": "SUSTAIN",
-      "density": 2.1666666666666665
-    },
-    {
-      "startTime": 48,
-      "endTime": 72,
-      "startBpm": 180,
-      "endBpm": 180,
-      "type": "PEAK",
-      "density": 1.5
-    },
-    {
-      "startTime": 72,
-      "endTime": 180,
-      "startBpm": 145,
-      "endBpm": 145,
-      "type": "SUSTAIN",
-      "density": 2.4166666666666665
-    },
-    {
-      "startTime": 180,
-      "endTime": 192,
-      "startBpm": 30,
-      "endBpm": 30,
-      "type": "SUSTAIN",
-      "density": 0.5
-    },
-    {
-      "startTime": 192,
-      "endTime": 312,
-      "startBpm": 45,
-      "endBpm": 45,
-      "type": "SUSTAIN",
-      "density": 0
-    },
-    {
-      "startTime": 312,
-      "endTime": 348,
-      "startBpm": 135,
-      "endBpm": 135,
-      "type": "SUSTAIN",
-      "density": 2.25
-    },
-    {
-      "startTime": 348,
-      "endTime": 396,
-      "startBpm": 270,
-      "endBpm": 270,
-      "type": "PEAK",
-      "density": 2.1666666666666665
-    },
-    {
-      "startTime": 396,
-      "endTime": 408,
-      "startBpm": 120,
-      "endBpm": 120,
-      "type": "PEAK",
-      "density": 1
-    },
-    {
-      "startTime": 408,
-      "endTime": 432,
-      "startBpm": 0,
-      "endBpm": 0,
-      "type": "SUSTAIN",
-      "density": 0
-    },
-    {
-      "startTime": 432,
-      "endTime": 444,
-      "startBpm": 230,
-      "endBpm": 230,
-      "type": "PEAK",
-      "density": 1.9166666666666667
-    },
-    {
-      "startTime": 444,
-      "endTime": 456,
-      "startBpm": 270,
-      "endBpm": 270,
-      "type": "PEAK",
-      "density": 2.25
-    },
-    {
-      "startTime": 456,
-      "endTime": 468,
-      "startBpm": 250,
-      "endBpm": 250,
-      "type": "PEAK",
-      "density": 2.0833333333333335
-    },
-    {
-      "startTime": 468,
-      "endTime": 480,
-      "startBpm": 270,
-      "endBpm": 270,
-      "type": "PEAK",
-      "density": 2.25
-    },
-    {
-      "startTime": 480,
-      "endTime": 516,
+      "startTime": 36.24461538461539,
+      "endTime": 49.16769230769232,
       "startBpm": 260,
       "endBpm": 260,
       "type": "PEAK",
-      "density": 2.0833333333333335
+      "density": 2
     },
     {
-      "startTime": 516,
-      "endTime": 526.3499166666667,
+      "startTime": 49.16769230769232,
+      "endTime": 63.936923076923094,
       "startBpm": 65,
       "endBpm": 65,
+      "type": "DRIFT",
+      "density": 0.5
+    },
+    {
+      "startTime": 63.936923076923094,
+      "endTime": 65.78307692307693,
+      "startBpm": 260,
+      "endBpm": 260,
+      "type": "PEAK",
+      "density": 2
+    },
+    {
+      "startTime": 65.78307692307693,
+      "endTime": 93.47538461538453,
+      "startBpm": 130,
+      "endBpm": 130,
       "type": "SUSTAIN",
-      "density": 1.0628104896174682
+      "density": 1
+    },
+    {
+      "startTime": 93.47538461538453,
+      "endTime": 95.32153846153837,
+      "startBpm": 260,
+      "endBpm": 260,
+      "type": "PEAK",
+      "density": 2
+    },
+    {
+      "startTime": 95.32153846153837,
+      "endTime": 100.85999999999989,
+      "startBpm": 130,
+      "endBpm": 130,
+      "type": "SUSTAIN",
+      "density": 1
+    },
+    {
+      "startTime": 100.85999999999989,
+      "endTime": 102.70615384615373,
+      "startBpm": 260,
+      "endBpm": 260,
+      "type": "PEAK",
+      "density": 2
+    },
+    {
+      "startTime": 102.70615384615373,
+      "endTime": 106.3984615384614,
+      "startBpm": 130,
+      "endBpm": 130,
+      "type": "SUSTAIN",
+      "density": 1
+    },
+    {
+      "startTime": 106.3984615384614,
+      "endTime": 108.24461538461524,
+      "startBpm": 260,
+      "endBpm": 260,
+      "type": "PEAK",
+      "density": 2
+    },
+    {
+      "startTime": 108.24461538461524,
+      "endTime": 115.6292307692306,
+      "startBpm": 130,
+      "endBpm": 130,
+      "type": "SUSTAIN",
+      "density": 1
+    },
+    {
+      "startTime": 115.6292307692306,
+      "endTime": 152.5523076923074,
+      "startBpm": 260,
+      "endBpm": 260,
+      "type": "PEAK",
+      "density": 2
+    },
+    {
+      "startTime": 152.5523076923074,
+      "endTime": 165.47538461538429,
+      "startBpm": 65,
+      "endBpm": 65,
+      "type": "DRIFT",
+      "density": 0.5
+    },
+    {
+      "startTime": 165.47538461538429,
+      "endTime": 252.24461538461475,
+      "startBpm": 32.5,
+      "endBpm": 32.5,
+      "type": "BREAK",
+      "density": 0.25
+    },
+    {
+      "startTime": 252.24461538461475,
+      "endTime": 287.3215384615382,
+      "startBpm": 65,
+      "endBpm": 65,
+      "type": "DRIFT",
+      "density": 0.5
+    },
+    {
+      "startTime": 287.3215384615382,
+      "endTime": 296.5523076923075,
+      "startBpm": 32.5,
+      "endBpm": 32.5,
+      "type": "BREAK",
+      "density": 0.25
+    },
+    {
+      "startTime": 296.5523076923075,
+      "endTime": 311.32153846153847,
+      "startBpm": 65,
+      "endBpm": 65,
+      "type": "DRIFT",
+      "density": 0.5
+    },
+    {
+      "startTime": 311.32153846153847,
+      "endTime": 399.93692307692413,
+      "startBpm": 260,
+      "endBpm": 260,
+      "type": "PEAK",
+      "density": 2
+    },
+    {
+      "startTime": 399.93692307692413,
+      "endTime": 416.55230769230894,
+      "startBpm": 65,
+      "endBpm": 65,
+      "type": "DRIFT",
+      "density": 0.5
+    },
+    {
+      "startTime": 416.55230769230894,
+      "endTime": 429.475384615386,
+      "startBpm": 32.5,
+      "endBpm": 32.5,
+      "type": "BREAK",
+      "density": 0.25
+    },
+    {
+      "startTime": 429.475384615386,
+      "endTime": 433.16769230769376,
+      "startBpm": 0,
+      "endBpm": 0,
+      "type": "SILENCE",
+      "density": 0
+    },
+    {
+      "startTime": 433.16769230769376,
+      "endTime": 486.7061538461559,
+      "startBpm": 260,
+      "endBpm": 260,
+      "type": "PEAK",
+      "density": 2
+    },
+    {
+      "startTime": 486.7061538461559,
+      "endTime": 507.0138461538485,
+      "startBpm": 130,
+      "endBpm": 130,
+      "type": "SUSTAIN",
+      "density": 1
+    },
+    {
+      "startTime": 507.0138461538485,
+      "endTime": 519.9369230769253,
+      "startBpm": 32.5,
+      "endBpm": 32.5,
+      "type": "BREAK",
+      "density": 0.25
+    },
+    {
+      "startTime": 519.9369230769253,
+      "endTime": 526.344,
+      "startBpm": 0,
+      "endBpm": 0,
+      "type": "SILENCE",
+      "density": 0
     }
   ]
 }
