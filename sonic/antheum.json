@@ -5117,13 +5117,21 @@
     {
       "startTime": 148.88222222222194,
       "endTime": 187.9933333333329,
-      "startBpm": 33.75,
-      "endBpm": 33.75,
+      "startBpm": 0,
+      "endBpm": 0,
       "type": "BREAK",
       "density": 0.25
     },
+	{
+	  "startTime": 187.9933333333329,
+	  "endTime": 243.9933333333329,
+	  "startBpm": 135,
+	  "endBpm": 135,
+	  "type": "SUSTAIN",
+	  "density": 1
+	},
     {
-      "startTime": 187.9933333333329,
+      "startTime": 243.9933333333329,
       "endTime": 299.99333333333254,
       "startBpm": 270,
       "endBpm": 270,
@@ -5141,13 +5149,21 @@
     {
       "startTime": 308.8822222222214,
       "endTime": 355.10444444444346,
-      "startBpm": 33.75,
-      "endBpm": 33.75,
+      "startBpm": 0,
+      "endBpm": 0,
       "type": "BREAK",
       "density": 0.25
     },
+	{
+	  "startTime": 355.10444444444346,
+	  "endTime": 384.4377777777767,
+	  "startBpm": 135,
+	  "endBpm": 135,
+	  "type": "SUSTAIN",
+	  "density": 1
+	},
     {
-      "startTime": 355.10444444444346,
+      "startTime": 384.4377777777767,
       "endTime": 452.8822222222209,
       "startBpm": 270,
       "endBpm": 270,
@@ -5157,8 +5173,8 @@
     {
       "startTime": 452.8822222222209,
       "endTime": 465.3266666666653,
-      "startBpm": 33.75,
-      "endBpm": 33.75,
+      "startBpm": 0,
+      "endBpm": 0,
       "type": "BREAK",
       "density": 0.25
     },
@@ -5213,8 +5229,8 @@
     {
       "startTime": 550.6599999999995,
       "endTime": 579.1044444444448,
-      "startBpm": 33.75,
-      "endBpm": 33.75,
+      "startBpm": 67.5,
+      "endBpm": 67.5,
       "type": "BREAK",
       "density": 0.25
     },
