@@ -1646,8 +1646,8 @@
       "endTime": 40.916470588235306,
       "startBpm": 136,
       "endBpm": 136,
-      "type": "PEAK",
-      "density": 2
+      "type": "SUSTAIN",
+      "density": 1
     },
     {
       "startTime": 40.916470588235306,
