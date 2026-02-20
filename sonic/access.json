@@ -1644,10 +1644,10 @@
     {
       "startTime": 19.740000000000006,
       "endTime": 40.916470588235306,
-      "startBpm": 0,
-      "endBpm": 0,
-      "type": "SILENCE",
-      "density": 0
+      "startBpm": 10,
+      "endBpm": 10,
+      "type": "PEAK",
+      "density": 2
     },
     {
       "startTime": 40.916470588235306,
