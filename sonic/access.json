@@ -1665,8 +1665,16 @@
       "type": "SUSTAIN",
       "density": 1
     },
+	{
+	  "startTime": 56.798823529411784,
+	  "endTime": 75.32823529411767,
+	  "startBpm": 136,
+	  "endBpm": 136,
+	  "type": "SUSTAIN",
+	  "density": 1
+	},
     {
-      "startTime": 56.798823529411784,
+      "startTime": 75.32823529411767,
       "endTime": 83.26941176470591,
       "startBpm": 272,
       "endBpm": 272,
@@ -1716,8 +1724,8 @@
     {
       "startTime": 130.9164705882353,
       "endTime": 134.44588235294117,
-      "startBpm": 34,
-      "endBpm": 34,
+      "startBpm": 0,
+      "endBpm": 0,
       "type": "BREAK",
       "density": 0.25
     },
@@ -1729,8 +1737,16 @@
       "type": "DRIFT",
       "density": 0.5
     },
+	{
+	  "startTime": 145.03411764705874,
+	  "endTime": 159.85764705882333,
+	  "startBpm": 136,
+	  "endBpm": 136,
+	  "type": "SUSTAIN",
+	  "density": 1
+	},
     {
-      "startTime": 145.03411764705874,
+      "startTime": 159.85764705882333,
       "endTime": 194.4458823529407,
       "startBpm": 272,
       "endBpm": 272,

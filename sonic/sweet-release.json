@@ -1738,8 +1738,8 @@
     {
       "startTime": 168.30818897637772,
       "endTime": 173.9774803149604,
-      "startBpm": 31.75,
-      "endBpm": 31.75,
+      "startBpm": 0,
+      "endBpm": 0,
       "type": "BREAK",
       "density": 0.25
     },
