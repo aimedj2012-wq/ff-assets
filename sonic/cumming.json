@@ -1823,9 +1823,9 @@
     {
       "startTime": 0,
       "endTime": 15,
-      "startBpm": 0,
-      "endBpm": 128,
-      "type": "SUSTAIN",
+      "startBpm": 32,
+      "endBpm": 32,
+      "type": "BREAK",
       "density": 1
     },
     {
